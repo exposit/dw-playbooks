@@ -18,7 +18,7 @@
 	<tbody class="list">
 	{% for post in site.posts %}
 		<tr>
-			<td class="playbook-name"><a href="{{ post.link }}">{{ post.playbook-name }}</a></td>
+			<td class="playbook-name"><a href="{{ post.link }}"><i class="fa fa-external-link"></i></a> &nbsp;&nbsp; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.playbook-name }}</a></td>
 			<td class="source">{{ post.source }}</td>
 			<td class="description">{{ post.description }}</td>
 			<td class="category">{{ post.categories }}</td>
