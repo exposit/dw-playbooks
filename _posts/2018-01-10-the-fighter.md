@@ -4,6 +4,8 @@ playbook-name: The Fighter
 source: Core Rulebook
 link: http://www.dungeonworldsrd.com/classes/fighter/
 
+description: The fighter hits stuff.
+
 categories:
 - fighter
 
