@@ -4,6 +4,8 @@ playbook-name: The Wizard
 source: Core Rulebook
 link: http://www.dungeonworldsrd.com/classes/wizard/
 
+description: The wizard casts spells and uses rituals.
+
 categories:
 - magic user
 
