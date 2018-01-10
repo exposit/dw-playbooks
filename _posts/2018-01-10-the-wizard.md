@@ -1,7 +1,7 @@
 ---
 layout: entry
 playbook-name: The Wizard
-source: Core Rulebook
+source: Core
 link: http://www.dungeonworldsrd.com/classes/wizard/
 
 description: The wizard casts spells and uses rituals.

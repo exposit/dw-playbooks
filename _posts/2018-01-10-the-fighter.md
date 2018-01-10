@@ -1,7 +1,7 @@
 ---
 layout: entry
 playbook-name: The Fighter
-source: Core Rulebook
+source: Core
 link: http://www.dungeonworldsrd.com/classes/fighter/
 
 description: The fighter hits stuff.
