@@ -2,8 +2,7 @@
 layout: entry
 playbook-name: The Wizard
 source: Core Rulebook
-link: link-to-where-you-can-get-it
-employees: 100
+link: http://www.dungeonworldsrd.com/classes/wizard/
 
 categories:
 - magic user

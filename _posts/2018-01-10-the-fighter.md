@@ -2,8 +2,7 @@
 layout: entry
 playbook-name: The Fighter
 source: Core Rulebook
-link: link-to-where-you-can-get-it
-employees: 100
+link: http://www.dungeonworldsrd.com/classes/fighter/
 
 categories:
 - fighter
