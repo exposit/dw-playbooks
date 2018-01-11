@@ -6,7 +6,7 @@ author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-description: "A possibly unstable surgeon that grimly stiches their companions back together. "
+description: '"A possibly unstable surgeon that grimly stiches their companions back together."'
 
 categories:
 - medic
