@@ -2,7 +2,7 @@
 layout: entry
 permalink: /:slug
 playbook-name: The Sorcerer
-source: web 
+source: Yochai Gal 
 source-url: https://plus.google.com/u/0/+YochaiGalUSA
 link: https://drive.google.com/file/d/0BzeF5GXNEsnfdDhkZV9tZDNwQVk/view 
 
