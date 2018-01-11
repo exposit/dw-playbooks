@@ -15,7 +15,7 @@ tags:
 - original
 - commercial
 - paid
-- setting-dependant
+- setting-dependent
 - playbook
 ---
 
