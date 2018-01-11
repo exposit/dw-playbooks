@@ -1,6 +1,6 @@
 ---
 layout: entry
-permalink: /Core/:slug
+permalink: /:slug
 playbook-name: The Barbarian
 author: Core
 source: DW Core
