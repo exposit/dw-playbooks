@@ -1,7 +1,8 @@
 ---
 layout: entry
-permalink: /:slug
+permalink: /Core/:slug
 playbook-name: The Barbarian
+author: Core
 source: DW Core
 link: http://www.dungeonworldsrd.com/classes/barbarian/
 
@@ -11,7 +12,6 @@ categories:
 - fighter
 
 tags:
-- quality-5
 - original
 - cc-by
 - free

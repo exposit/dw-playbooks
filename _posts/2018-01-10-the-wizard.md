@@ -11,7 +11,6 @@ categories:
 - magic user
 
 tags:
-- quality-5
 - original
 - cc-by
 - free

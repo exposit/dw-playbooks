@@ -11,7 +11,6 @@ categories:
 - tough hero
 
 tags:
-- quality-5
 - original
 - commercial
 - paid

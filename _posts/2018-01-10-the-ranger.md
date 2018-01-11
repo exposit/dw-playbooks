@@ -11,7 +11,6 @@ categories:
 - fighter
 
 tags:
-- quality-5
 - original
 - cc-by
 - free
