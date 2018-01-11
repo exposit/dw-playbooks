@@ -1,22 +1,20 @@
 ---
 layout: entry
 permalink: /:slug
-playbook-name: The Cleric
-link: http://www.dungeonworldsrd.com/classes/cleric/
-author: Core
-source: DW Core
-source-url: http://www.dungeon-world.com/
+playbook-name: The Beguiler
+link: http://www.mediafire.com/view/armlrbmnfzd608t/The_Beguiler.pdf
+author: ['Nemo Hana']
+source: google+
+source-url: https://plus.google.com/104067586407986674942/posts/Pp1Cfu69p2U
 
 description:
 
 categories:
-- divine
+- bard
 
 tags:
 - original
-- cc-by
 - free
-- vanilla
 ---
 
 And here's where you learn all about this particular playbook, should it need its own page, which may not really be all that necessary.

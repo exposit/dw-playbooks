@@ -1,22 +1,20 @@
 ---
 layout: entry
 permalink: /:slug
-playbook-name: The Cleric
-link: http://www.dungeonworldsrd.com/classes/cleric/
-author: Core
-source: DW Core
-source-url: http://www.dungeon-world.com/
+playbook-name: The True Friend
+link: http://www.mediafire.com/file/f3b2fufj8qddx14/The+True+Friend.pdf
+author: Unknown
+source:
+source-url:
 
 description:
 
 categories:
-- divine
+- bard
 
 tags:
 - original
-- cc-by
-- free
-- vanilla
+- unattributed
 ---
 
 And here's where you learn all about this particular playbook, should it need its own page, which may not really be all that necessary.

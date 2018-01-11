@@ -1,22 +1,20 @@
 ---
 layout: entry
 permalink: /:slug
-playbook-name: The Cleric
-link: http://www.dungeonworldsrd.com/classes/cleric/
-author: Core
-source: DW Core
-source-url: http://www.dungeon-world.com/
+playbook-name: The Mountebank
+link: http://www.rpgnow.com/product/113902/The-Mountebank
+author: Jeremy Friesen
+source: TakeOnRules
+source-url: https://takeonrules.com/
 
 description:
 
 categories:
-- divine
+- bard
 
 tags:
 - original
-- cc-by
-- free
-- vanilla
+- pwyw
 ---
 
 And here's where you learn all about this particular playbook, should it need its own page, which may not really be all that necessary.

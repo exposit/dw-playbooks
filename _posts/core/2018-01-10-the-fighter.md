@@ -2,9 +2,10 @@
 layout: entry
 permalink: /:slug
 playbook-name: The Fighter
+link: http://www.dungeonworldsrd.com/classes/fighter/
 author: Core
 source: DW Core
-link: http://www.dungeonworldsrd.com/classes/fighter/
+source-url: http://www.dungeon-world.com/
 
 description: The fighter hits stuff.
 
@@ -16,7 +17,6 @@ tags:
 - cc-by
 - free
 - vanilla
-- playbook
 ---
 
 And here's where you learn all about this particular playbook, should it need its own page, which may not really be all that necessary.
