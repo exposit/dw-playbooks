@@ -4,6 +4,8 @@ layout: none
 [{% for post in site.posts %}{
 	"playbook-name": "{{post.playbook-name}}",
 	"source": "{{post.source}}",
+	"source-url": "{{post.source-url}}",
+	"author": "{{post.author}}",
 	"description": "{{post.description}}",
 	"link": "{{post.link}}",
 	"tags": "{{ post.tags | array_to_sentence_string }}",
