@@ -2,6 +2,7 @@
 layout: entry
 permalink: /:slug
 playbook-name: The Survivor
+author: ['Jacob Randolph', 'Brandon Schmelz']
 source: Inverse World
 link: http://www.drivethrurpg.com/product/128281/Inverse-World--A-Dungeon-World-Supplement
 

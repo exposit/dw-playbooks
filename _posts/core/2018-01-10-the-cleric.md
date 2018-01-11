@@ -2,6 +2,7 @@
 layout: entry
 permalink: /:slug
 playbook-name: The Cleric
+author: Core
 source: DW Core
 link: http://www.dungeonworldsrd.com/classes/cleric/
 
