@@ -36,56 +36,11 @@
 </div>
 
 <script type="text/javascript">
-
 var options = {
   valueNames: ['playbook-name', 'source', 'author', 'description', 'category', 'tags']
 };
-
 var entryList = new List('entry-list', options);
-
-<div id="entry-list">
-
-<div class="row" style="margin-bottom:10px;">
-		<input type="text" class="search form-control" placeholder="Search" />
-</div>
-
-<div class="row">
-<table class="table table-striped">
-	<thead>
-		<tr>
-			<th style="width:15%;"><span class="sort" data-sort="playbook-name">Playbook Name</span></th>
-			<th style="width:10%;"><span class="sort" data-sort="source">Source</span></th>
-			<th style="width:20%;"><span class="sort" data-sort="author">Author</span></th>
-			<th style="width:25%;"><span class="sort" data-sort="description">Description</span></th>
-			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
-			<th style="width:20%;"><span class="sort" data-sort="tags">Tags</span></th>
-		</tr>
-	</thead>
-	<tbody class="list">
-	{% for post in site.posts %}
-		<tr>
-			<td class="playbook-name"><a href="{{ post.link }}" target="new"><i class="fa fa-external-link"></i></a> &nbsp;&nbsp; <a href="{{ site.baseurl }}{{ post.url }}" target="new">{{ post.playbook-name }}</a></td>
-			<td class="source">
-				{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
-			<td class="author">{{ post.author | join: ", " }}</td>
-			<td class="description">{{ post.description }}</td>
-			<td class="category">{{ post.categories | join: ", " }}</td>
-			<td class="tags">{{ post.tags | join: ", " }}</td>
-		</tr>
-	{% endfor %}
-	</tbody>
-</table>
-</div>
-
-</div>
-
-<script type="text/javascript">
-
-var options = {
-  valueNames: ['playbook-name', 'source', 'author', 'description', 'category', 'tags']
-};
-
-var entryList = new List('entry-list', options);
+	
 var hash = window.location.hash;
 var searchInput = document.querySelector('input.search');
 if(hash.length > 1) {
@@ -99,9 +54,8 @@ if(hash.length > 1) {
     searchInput.fireEvent("onkeyup");
   }
 }
-
 searchInput.addEventListener('keyup', function () {
   window.location.hash = this.value;
 });
-	
+
 </script>
