@@ -10,7 +10,7 @@ source-url: http://www.drivethrurpg.com/product/128281/Inverse-World--A-Dungeon-
 description: The Survivor survives.
 
 categories:
-- tough hero
+- quirky
 
 tags:
 - original

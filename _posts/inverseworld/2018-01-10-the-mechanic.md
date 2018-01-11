@@ -10,7 +10,7 @@ source-url: http://www.drivethrurpg.com/product/128281/Inverse-World--A-Dungeon-
 description: Somebody has to keep the airship running.
 
 categories:
-- rogue
+- expert
 
 tags:
 - original
