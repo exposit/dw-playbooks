@@ -18,5 +18,3 @@ tags:
 - inverse world
 - setting-dependent
 ---
-
-And here's where you learn all about this particular playbook, should it need its own page, which may not really be all that necessary.
