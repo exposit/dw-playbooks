@@ -1,5 +1,6 @@
 ---
 layout: entry
+permalink: /:slug
 playbook-name: The Fighter
 source: DW Core
 link: http://www.dungeonworldsrd.com/classes/fighter/
