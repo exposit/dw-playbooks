@@ -2,10 +2,10 @@
 layout: entry
 permalink: /:slug
 playbook-name: The Ranger
+link: http://www.dungeonworldsrd.com/classes/ranger/
 author: Core
 source: DW Core
 source-url: http://www.dungeon-world.com/
-link: http://www.dungeonworldsrd.com/classes/ranger/
 
 description:
 
