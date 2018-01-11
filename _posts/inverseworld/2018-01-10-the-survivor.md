@@ -15,8 +15,6 @@ tags:
 - original
 - commercial
 - paid
-- setting-dependent
-- playbook
 - inverse world
 ---
 
