@@ -3,9 +3,10 @@ layout: entry
 permalink: /:slug
 playbook-name: The Sorcerer
 source: web 
+source-url: https://plus.google.com/u/0/+YochaiGalUSA
 link: https://drive.google.com/file/d/0BzeF5GXNEsnfdDhkZV9tZDNwQVk/view 
 
-description: An alternative spellcasting playbook to the Wizard, that doesn't require spell memorization. Also makes Julian Fries!
+description: An alternative spellcasting playbook to the Wizard, that doesn't require spell memorization. Also makes Julienne Fries!
 
 categories:
 - magic user
