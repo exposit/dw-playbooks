@@ -2,23 +2,28 @@
   {% if site.repository and site.staticman.branch %}
     {% if site.data.comments[page.slug] %}
       <!-- Start static comments -->
-      test
       <div id="comments" class="js-comments">
-        <h2 class="page__section-label">
+        <h4 class="page__section-label">
           {% if site.data.comments[page.slug].size > 1 %}
             {{ site.data.comments[page.slug] | size }}
           {% endif %}
           Comments
-        </h2>
+        </h4>
+        <hr>
+        <div class="row">
         {% for comment in site.data.comments[page.slug] %}
-        {{comment}}
-          <tr>
-            <td class="name">{{ comment.name }}</td>
-            <td class="email">{{ comment.email }}</td>
-            <td class="data">{{ comment.data }}</td>
-            <td class="message">{{ comment.message }}</td>
-      		</tr>
+            <p>
+              <h4>{{ comment[1].name }}</h4>
+            </p>
+            <p>
+              <i>{{ comment[1].date | date: '%B %d, %Y' }}</i>
+            </p>
+            <p>
+              {{ comment[1].message }}
+        		</p>
+            <hr>
         {% endfor %}
+        </div>
       </div>
       <!-- End static comments -->
     {% endif %}
@@ -26,20 +31,22 @@
     {% unless page.comments_locked == true %}
       <!-- Start new comment form -->
 
+      <h4>New Comment</h4>
+
       <form method="POST" action="https://api.staticman.net/v2/entry/exposit/dw-playbooks/gh-pages/comments">
         <input name="options[redirect]" type="hidden" value="https://exposit.github.io/dw-playbooks/">
         <!-- e.g. "2016-01-02-this-is-a-post" -->
-        <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-        <label><input name="fields[name]" type="text">Name</label>
-        <label><input name="fields[email]" type="email">E-mail</label>
-        <label><textarea name="fields[message]"></textarea>Message</label>
+        <p><input name="options[slug]" type="hidden" value="{{ page.slug }}"></p>
+        <p><label><input name="fields[name]" type="text">&nbsp;Name</label></p>
+        <p><label><input name="fields[email]" type="email">&nbsp;E-mail</label></p>
+        <p><label><textarea name="fields[message]"></textarea></label></p>
 
-        <button type="submit">Go!</button>
+        <p><button type="submit">Go!</button></p>
       </form>
 
       <!-- End new comment form -->
     {% else %}
-      <p><em>Comments are closed. If you have a question concerning the content of this page, please feel free to <a href="/contact/">contact me</a>.</em></p>
+      <p><em>Comments are closed.</em></p>
     {% endunless %}
   {% endif %}
 </section>
