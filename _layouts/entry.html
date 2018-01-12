@@ -8,8 +8,9 @@ layout: default
       <div class="col-md-5 col-lg-offset-3">
 
         <header class="post-header">
-          <h2 class="post-title">{{ page.playbook-name }} ({{ page.source}})</h2>
-          <h5 class="post-tags">{{ page.tags | array_to_sentence_string }}</h5>
+          <h2 class="post-title"><a href="{{ post.link }}" target="new">{{ page.playbook-name }}</a></h2>
+          <h4><a href="">{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</a></h4>
+          <h5 class="post-tags">{{ post.categories | join: ", " }} | {{ page.tags | array_to_sentence_string }}</h5>
         </header>
 
         <p class="post-description"><i>{{ page.description }}</i></p>
