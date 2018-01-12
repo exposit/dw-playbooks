@@ -1,3 +1,4 @@
 repository: dw-playbooks
 staticman:
   branch: gh-pages
+permalink: /:slug
