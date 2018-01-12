@@ -20,7 +20,7 @@
 	{% for post in site.posts %}
 		<tr>
 			<!--<td class="playbook-name"><a href="{{ post.link }}" target="new"><i class="fa fa-external-link"></i></a> &nbsp;&nbsp; <a href="{{ site.baseurl }}{{ post.url }}" target="new">{{ post.playbook-name }}</a></td>-->
-			<td class="playbook-name"><a href="{{ post.link }}" target="new">{{ post.playbook-name }}</a><a href="{{ site.baseurl }}{{ post.url }}" target="new">{{ post.playbook-name }}</a></td>
+			<td class="playbook-name"><a href="{{ post.link }}" target="new">{{ post.playbook-name }}</a></td>
 			<td class="source">
 				{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
 			<td class="author">{{ post.author | join: ", " }}</td>
