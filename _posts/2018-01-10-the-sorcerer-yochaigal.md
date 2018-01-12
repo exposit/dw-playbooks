@@ -1,8 +1,7 @@
 ---
 layout: entry
-permalink: /:slug
 playbook-name: The Sorcerer
-link: https://drive.google.com/file/d/0BzeF5GXNEsnfdDhkZV9tZDNwQVk/view 
+link: https://drive.google.com/file/d/0BzeF5GXNEsnfdDhkZV9tZDNwQVk/view
 author: ['Yochai Gal']
 source: google+
 source-url: https://plus.google.com/u/0/+YochaiGalUSA

@@ -1,6 +1,5 @@
 ---
 layout: entry
-permalink: /:slug
 playbook-name: The Mountebank
 link: http://www.rpgnow.com/product/113902/The-Mountebank
 author: Jeremy Friesen

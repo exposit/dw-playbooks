@@ -1,12 +1,11 @@
 ---
 layout: entry
-permalink: /:slug
-playbook-name: The Binder 
-link: https://drive.google.com/open?id=0BzeF5GXNEsnfOEd4M0NXcWF2MVE 
+playbook-name: The Binder
+link: https://drive.google.com/open?id=0BzeF5GXNEsnfOEd4M0NXcWF2MVE
 author: ['Yochai Gal']
 source: google+
 source-url: https://plus.google.com/u/0/+YochaiGalUSA
-description: 
+description:
 
 categories:
 - magic user

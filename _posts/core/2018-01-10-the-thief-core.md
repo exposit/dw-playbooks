@@ -1,6 +1,5 @@
 ---
 layout: entry
-permalink: /:slug
 playbook-name: The Thief
 link: http://www.dungeonworldsrd.com/classes/thief/
 author: Core
@@ -18,5 +17,3 @@ tags:
 - free
 - vanilla
 ---
-
-And here's where you learn all about this particular playbook, should it need its own page, which may not really be all that necessary.
