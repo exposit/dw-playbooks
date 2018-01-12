@@ -6,7 +6,7 @@ author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-description: '"You are a noble dripping with class and excessive wealth. Use your money and influence to manipulate others and get into all the high life events wherever you go."'
+description: '"Use your money and influence to manipulate others..."'
 
 categories:
 - bard
