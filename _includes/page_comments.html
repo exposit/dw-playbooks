@@ -2,6 +2,7 @@
   {% if site.repository and site.staticman.branch %}
     {% if site.data.comments[page.slug] %}
       <!-- Start static comments -->
+      test
       <div id="comments" class="js-comments">
         <h2 class="page__section-label">
           {% if site.data.comments[page.slug].size > 1 %}
@@ -10,6 +11,7 @@
           Comments
         </h2>
         {% for comment in site.data.comments[page.slug] %}
+        {{comment}}
           <tr>
             <td class="name">{{ comment.name }}</td>
             <td class="email">{{ comment.email }}</td>
@@ -34,7 +36,7 @@
 
         <button type="submit">Go!</button>
       </form>
-      
+
       <!-- End new comment form -->
     {% else %}
       <p><em>Comments are closed. If you have a question concerning the content of this page, please feel free to <a href="/contact/">contact me</a>.</em></p>
