@@ -10,7 +10,7 @@ source-url: http://www.rpgnow.com/browse/pub/4483/Red-Box-Vancouver
 description:
 
 categories:
-- quirky
+- other
 
 tags:
 - original
