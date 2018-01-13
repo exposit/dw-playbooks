@@ -1,12 +1,12 @@
 ---
 layout: entry
-playbook-name: The Musketeer
-link: http://drivethrurpg.com/product/161538/Dungeon-World-Playbooks-Heroes-of-Steam-Bundle
+playbook-name: The Squirrelmancer
+link: http://drivethrurpg.com/product/165068/Dungeon-World-Playbooks-Wrath-of-the-Wild-Bundle
 author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-description: '"You are rifle-toting marksmen."'
+description: '"You are a living tree."'
 
 categories:
 - fighter
@@ -14,5 +14,5 @@ categories:
 tags:
 - original
 - commercial
-- steampunk
+- wrath of the wild
 ---

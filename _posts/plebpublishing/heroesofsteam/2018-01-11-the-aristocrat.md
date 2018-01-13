@@ -1,18 +1,19 @@
 ---
 layout: entry
-playbook-name: The Electrolysist
+playbook-name: The Aristocrat
 link: http://drivethrurpg.com/product/161538/Dungeon-World-Playbooks-Heroes-of-Steam-Bundle
 author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-description: '"You are an innovative mind who couldn’t be happy with the already advanced technologies your civilization enjoys."'
+description: '"Use your money and influence to manipulate others..."'
 
 categories:
-- expert
+- bard
 
 tags:
 - original
 - commercial
 - steampunk
+- heroes of steam
 ---
