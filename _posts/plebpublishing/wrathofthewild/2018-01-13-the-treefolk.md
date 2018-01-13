@@ -1,6 +1,6 @@
 ---
 layout: entry
-playbook-name: The Squirrelmancer
+playbook-name: The Treefolk
 link: http://drivethrurpg.com/product/165068/Dungeon-World-Playbooks-Wrath-of-the-Wild-Bundle
 author: Jordan MacCarthy
 source: Pleb Publishing
