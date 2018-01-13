@@ -1,4 +1,4 @@
 repository: dw-playbooks
 staticman:
   branch: gh-pages
-permalink: /:slug
+permalink: /:slug-:month:day:short_year
