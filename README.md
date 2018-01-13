@@ -15,7 +15,8 @@ Example: `2018-01-03-the-dw-class.md`.
 
 ### File Format
 Example format below. Copy and paste and change for the playbook you're submitting.
-```
+
+```yaml
 ---
 layout: entry
 permalink: /the-dw-class
@@ -37,4 +38,10 @@ tags:
 - its
 - own
 - line
+```
+
+Note: Please put direct quotes from a product page in quotes; surround quoted material with quotes. Otherwise use your own words. Thanks.
+
+```yaml
+description: '"This is a direct quote."'
 ```

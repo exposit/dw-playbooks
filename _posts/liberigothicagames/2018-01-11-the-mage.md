@@ -14,6 +14,6 @@ categories:
 tags:
 - original
 - commercial
-- alternative
+- alternate
 - cc-by
 ---
