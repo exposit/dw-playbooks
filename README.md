@@ -39,6 +39,11 @@ tags:
 - setting (if there is one)
 - pack (if there is one)
 - anything else you think relevant
+
+---
+
+  Any content you want shown on the individual entry page should go here. If you don't use an explicit excerpt field above, one will be generated here.
+
 ```
 
 Note: Please put direct quotes from a product page in quotes; surround quoted material with quotes and replace apostrophes with ```&apos;```. Otherwise use your own words. Thanks.
