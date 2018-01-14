@@ -9,7 +9,7 @@ source-url: http://www.dungeon-world.com/
 description: The thief steals stuff.
 
 categories:
-- rogue
+- thief
 
 tags:
 - cc-by

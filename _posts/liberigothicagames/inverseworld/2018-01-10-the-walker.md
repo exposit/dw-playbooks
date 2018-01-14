@@ -9,7 +9,7 @@ source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 description:
 
 categories:
-- rogue
+- thief
 
 tags:
 - commercial
