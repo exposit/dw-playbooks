@@ -10,7 +10,7 @@ categories:
 - paladin
 
 license: cc-by
-cost: commercial
+cost: paid
 
 tags:
 - alternate

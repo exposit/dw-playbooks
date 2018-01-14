@@ -12,6 +12,6 @@ categories:
 - magic user
 
 license: non-free
-cost: commercial
+cost: paid
 
 ---

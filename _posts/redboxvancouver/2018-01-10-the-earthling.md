@@ -13,7 +13,7 @@ categories:
 - other
 
 license: non-free
-cost: commercial
+cost: paid
 
 tags:
 - dungeon planet

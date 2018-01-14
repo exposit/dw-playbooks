@@ -11,5 +11,5 @@ categories:
 - fighter
 
 license: non-free
-cost: commercial
+cost: paid
 ---

@@ -11,5 +11,5 @@ categories:
 - bard
 
 license: non-free
-cost: commercial
+cost: paid
 ---

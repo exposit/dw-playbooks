@@ -12,7 +12,7 @@ categories:
 - barbarian
 
 license: non-free
-cost: commercial
+cost: paid
 
 tags:
 - alternate

@@ -10,7 +10,7 @@ categories:
 - cleric
 
 license: cc-by
-cost: commercial
+cost: paid
 
 tags:
 - alternate

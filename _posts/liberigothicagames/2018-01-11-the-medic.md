@@ -12,6 +12,6 @@ categories:
 - cleric
 
 license: non-free
-cost: commercial
+cost: paid
 
 ---

@@ -33,7 +33,7 @@ categories:
 - category (use an existing category please)
 
 license: cc-by, non-free, unknown
-cost: commercial, free, pwyw
+cost: paid, free, pwyw
 
 tags:
 - setting (if there is one)

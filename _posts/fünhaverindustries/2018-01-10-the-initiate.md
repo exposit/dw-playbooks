@@ -12,6 +12,6 @@ categories:
 - monk
 
 license: cc-by-sa
-cost: commercial
+cost: paid
 
 ---

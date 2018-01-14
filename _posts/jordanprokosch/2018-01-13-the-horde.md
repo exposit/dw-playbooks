@@ -12,6 +12,6 @@ categories:
 - non-human
 
 license: non-free
-cost: commercial
+cost: paid
 
 ---

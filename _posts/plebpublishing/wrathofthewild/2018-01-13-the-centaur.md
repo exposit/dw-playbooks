@@ -12,7 +12,7 @@ categories:
 - fighter
 
 license: non-free
-cost: commercial
+cost: paid
 
 tags:
 - wrath of the wild

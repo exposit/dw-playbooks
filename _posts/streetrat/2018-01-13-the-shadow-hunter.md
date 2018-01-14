@@ -11,6 +11,6 @@ categories:
 - thief
 
 license: non-free
-cost: commercial
+cost: paid
 
 ---
