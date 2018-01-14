@@ -21,7 +21,6 @@ Example format below. Copy and paste and change for the playbook you're submitti
 ```yaml
 ---
 layout: entry
-permalink: /the-dw-class
 link: http://www.thedwclass.world
 author: ['Jane Doe', 'John Smith']
 source: The DW Supplement
