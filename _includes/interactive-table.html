@@ -28,7 +28,7 @@
 			<!--<td class="playbook-name"><a href="{{ post.link }}" target="new">{{ post.playbook-name }}</a></td>-->
 			<td class="source">
 				{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
-			<td class="author">{{ post.author | join: ", " }}</td>
+			<td class="author"><a href="{{ site.baseurl }}/authors.html#{{post.author}}">{{ post.author | join: ", " }}</a></td>
 			<td class="description">{{ post.description }}</td>
 			<td class="category">{{ post.categories | join: ", " }}</td>
 			<td class="tags">{{ post.tags | join: ", " }}</td>
