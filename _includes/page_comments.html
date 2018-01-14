@@ -1,17 +1,17 @@
 <section class="page__reactions">
   {% if site.repository and site.staticman.branch %}
-    {% if site.data.comments[page.slug] %}
+    {% if site.data.comments[page.url] %}
       <!-- Start static comments -->
       <div id="comments" class="js-comments">
         <h4 class="page__section-label">
-          {% if site.data.comments[page.slug].size > 1 %}
-            {{ site.data.comments[page.slug] | size }}
+          {% if site.data.comments[page.url].size > 1 %}
+            {{ site.data.comments[page.url] | size }}
           {% endif %}
           Comments
         </h4>
         <hr>
         <div class="row">
-        {% for comment in site.data.comments[page.slug] %}
+        {% for comment in site.data.comments[page.url] %}
             <p>
               <h4>{{ comment[1].name }}</h4>
             </p>
