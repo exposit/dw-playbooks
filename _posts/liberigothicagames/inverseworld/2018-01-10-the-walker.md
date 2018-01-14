@@ -12,7 +12,6 @@ categories:
 - rogue
 
 tags:
-- original
 - commercial
 - inverse world
 ---

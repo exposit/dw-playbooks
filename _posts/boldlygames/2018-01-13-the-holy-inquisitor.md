@@ -13,7 +13,6 @@ categories:
 - paladin
 
 tags:
-- original
 - commercial
 - grim world
 ---

@@ -12,7 +12,6 @@ categories:
 - druid
 
 tags:
-- original
 - commercial
 - wrath of the wild
 ---

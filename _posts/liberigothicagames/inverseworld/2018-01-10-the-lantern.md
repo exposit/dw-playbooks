@@ -12,7 +12,6 @@ categories:
 - magic user
 
 tags:
-- original
 - commercial
 - inverse world
 - setting-dependent

@@ -6,13 +6,12 @@ author: Alex Putnam
 source: Rite Publishing
 source-url: http://drivethrurpg.com/browse/pub/2373/Rite-Publishing
 
-description: 
+description:
 
 categories:
 - barbarian
 
 tags:
-- original
 - commercial
 - alternate
 ---

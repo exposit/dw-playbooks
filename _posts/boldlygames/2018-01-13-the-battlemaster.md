@@ -12,7 +12,6 @@ categories:
 - leader
 
 tags:
-- original
 - commercial
 - grim world
 ---

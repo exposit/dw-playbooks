@@ -13,7 +13,6 @@ categories:
 - cleric
 
 tags:
-- original
 - commercial
 - steampunk
 - heroes of steam

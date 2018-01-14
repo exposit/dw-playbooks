@@ -12,7 +12,6 @@ categories:
 - fighter
 
 tags:
-- original
 - free
 - cc-by
 - dark sun

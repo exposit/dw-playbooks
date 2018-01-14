@@ -12,6 +12,5 @@ categories:
 - bard
 
 tags:
-- original
 - free
 ---

@@ -12,7 +12,6 @@ categories:
 - rogue
 
 tags:
-- original
 - pwyw
 - lore and lords pack
 ---

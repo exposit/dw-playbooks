@@ -12,7 +12,6 @@ categories:
 - barbarian
 
 tags:
-- original
 - pwyw
 - lore and lords pack
 ---

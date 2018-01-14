@@ -12,7 +12,6 @@ categories:
 - other
 
 tags:
-- original
 - pwyw
 - lore and lords pack
 ---

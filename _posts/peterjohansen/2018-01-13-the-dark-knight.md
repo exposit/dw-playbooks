@@ -12,7 +12,6 @@ categories:
 - fighter
 
 tags:
-- original
 - pwyw
 - lore and lords pack
 ---

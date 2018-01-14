@@ -12,7 +12,6 @@ categories:
 - expert
 
 tags:
-- original
 - commercial
 - inverse world
 ---

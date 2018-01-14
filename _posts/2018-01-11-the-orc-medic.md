@@ -12,6 +12,5 @@ categories:
 - cleric
 
 tags:
-- original
 - commercial
 ---

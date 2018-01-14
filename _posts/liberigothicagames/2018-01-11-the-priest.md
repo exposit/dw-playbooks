@@ -12,7 +12,6 @@ categories:
 - cleric
 
 tags:
-- original
 - commercial
 - alternate
 - cc-by

@@ -13,7 +13,6 @@ categories:
 - race
 
 tags:
-- original
 - free
 - eberron
 ---

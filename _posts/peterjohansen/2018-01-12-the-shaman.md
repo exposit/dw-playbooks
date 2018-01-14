@@ -12,7 +12,6 @@ categories:
 - druid
 
 tags:
-- original
 - pwyw
 - lore and lords pack
 ---

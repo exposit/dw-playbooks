@@ -12,7 +12,6 @@ categories:
 - fighter
 
 tags:
-- original
 - cc-by
 - free
 - vanilla

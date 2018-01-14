@@ -12,6 +12,5 @@ categories:
 - fighter
 
 tags:
-- original
 - commercial
 ---

@@ -12,7 +12,6 @@ categories:
 - fighter
 
 tags:
-- original
 - commercial
 - wrath of the wild
 ---

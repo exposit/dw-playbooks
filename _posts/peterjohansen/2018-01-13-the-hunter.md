@@ -12,7 +12,6 @@ categories:
 - ranger
 
 tags:
-- original
 - pwyw
 - lore and lords pack
 ---

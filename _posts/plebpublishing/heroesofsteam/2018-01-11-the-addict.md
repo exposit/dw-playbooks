@@ -12,7 +12,6 @@ categories:
 - quirky
 
 tags:
-- original
 - commercial
 - steampunk
 - heroes of steam

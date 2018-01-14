@@ -29,15 +29,14 @@ source-url: http://thedungeon.world/supplement
 description: Put the description of your playbook here. Keep it short.
 
 categories:
-- category
+- category (use archetype, categories from similar playbooks already entered)
 
 tags:
-- each
-- tag
-- on
-- its
-- own
-- line
+- commercial or free
+- license (if not commercial)
+- setting (if there is one)
+- pack (if there is one)
+- anything else you think relevant
 ```
 
 Note: Please put direct quotes from a product page in quotes; surround quoted material with quotes. Otherwise use your own words. Thanks.

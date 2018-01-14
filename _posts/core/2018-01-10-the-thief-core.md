@@ -12,7 +12,6 @@ categories:
 - rogue
 
 tags:
-- original
 - cc-by
 - free
 - vanilla

@@ -12,7 +12,6 @@ categories:
 - expert
 
 tags:
-- original
 - commercial
 - steampunk
 - heroes of steam

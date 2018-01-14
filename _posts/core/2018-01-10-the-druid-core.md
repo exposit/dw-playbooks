@@ -12,7 +12,6 @@ categories:
 - primal
 
 tags:
-- original
 - cc-by
 - free
 - vanilla

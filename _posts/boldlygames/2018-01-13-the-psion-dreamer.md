@@ -12,7 +12,6 @@ categories:
 - psion
 
 tags:
-- original
 - commercial
 - grim world
 ---

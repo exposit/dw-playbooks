@@ -12,7 +12,6 @@ categories:
 - bard
 
 tags:
-- original
 - pwyw
 - war and wonders pack
 ---

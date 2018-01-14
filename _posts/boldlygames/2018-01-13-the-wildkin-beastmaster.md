@@ -12,7 +12,6 @@ categories:
 - ranger
 
 tags:
-- original
 - commercial
 - grim world
 ---

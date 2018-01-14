@@ -13,7 +13,6 @@ categories:
 - magic user
 
 tags:
-- original
 - cc-by
 - free
 - vanilla

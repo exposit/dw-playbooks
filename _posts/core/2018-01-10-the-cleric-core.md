@@ -12,7 +12,6 @@ categories:
 - divine
 
 tags:
-- original
 - cc-by
 - free
 - vanilla

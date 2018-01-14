@@ -12,7 +12,6 @@ categories:
 - fighter
 
 tags:
-- original
 - commercial
 - steampunk
 - heroes of steam

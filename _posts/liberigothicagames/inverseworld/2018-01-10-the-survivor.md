@@ -12,7 +12,6 @@ categories:
 - quirky
 
 tags:
-- original
 - commercial
 - inverse world
 ---
