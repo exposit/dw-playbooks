@@ -36,7 +36,7 @@
       <form method="POST" action="https://api.staticman.net/v2/entry/exposit/dw-playbooks/gh-pages/comments">
         <input name="options[redirect]" type="hidden" value="https://exposit.github.io/dw-playbooks/">
         <!-- e.g. "2016-01-02-this-is-a-post" -->
-        <input name="options[playbook-name]" type="hidden" value="{{ page.slug }}-{{ page.month }}{{ page.day }}{{ page.short_year }}">
+        <input name="options[playbook-name]" type="hidden" value="{{ page.slug }}-{{ page.date | date: "%m" }}{{ page.date | date: "%d" }}{{ page.date | date: "%y" }}">
         <div class="form-group"><label class="form-label">Name</label><input class="form-control" name="fields[name]" type="text"></div>
         <div class="form-group"><label class="form-label">Email</label><input class="form-control" name="fields[email]" type="email"></div>
         <div class="form-group"><textarea class="form-control" name="fields[message]" placeholder="Comment"></textarea></div>
