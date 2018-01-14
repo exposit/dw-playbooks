@@ -1,4 +1,5 @@
 <section class="page__reactions">
+  {% if site.repository and site.staticman.branch %}
     {% if site.data.comments[loc] %}
       <!-- Start static comments -->
       <div id="comments" class="js-comments">
