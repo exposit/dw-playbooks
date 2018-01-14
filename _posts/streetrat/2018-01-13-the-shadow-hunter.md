@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Pit Fighter
 link: http://www.drivethrurpg.com/product/139436/Shadow-Hunter
 author: Thomas du Plessis
 source: Street Rat Games
