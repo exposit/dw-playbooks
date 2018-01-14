@@ -10,7 +10,10 @@ excerpt:
 categories:
 - magic user
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - alternate
+
 ---

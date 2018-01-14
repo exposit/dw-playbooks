@@ -11,7 +11,10 @@ excerpt:
 categories:
 - barbarian
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - alternate
+
 ---

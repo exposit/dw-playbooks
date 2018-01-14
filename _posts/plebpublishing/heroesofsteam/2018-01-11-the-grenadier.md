@@ -11,8 +11,10 @@ excerpt: The Grenadier is an expert in mortar barrages and grenade assaults.
 categories:
 - fighter
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - steampunk
 - heroes of steam
 ---

@@ -1,3 +1,4 @@
+
 <div id="entry-list">
 
 <div class="row" style="margin-bottom:10px;">
@@ -19,6 +20,7 @@
 	</thead>
 	<tbody class="list">
 	{% for post in site.posts %}
+	  {% if post.tags contains page.tag %}
 		<tr>
 			<td class="playbook-name"><a href="{{ post.link }}" target="new"><i class="fa fa-external-link"></i></a> &nbsp;&nbsp; <a href="{{ site.baseurl }}{{ post.url }}">
 				{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
@@ -38,6 +40,7 @@
 				</td>
 			<td class="date-added">{{ post.date | date: "%m-%d-%y" }}</td>
 		</tr>
+		{% endif %}
 	{% endfor %}
 	</tbody>
 </table>

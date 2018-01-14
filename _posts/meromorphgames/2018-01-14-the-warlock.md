@@ -11,8 +11,7 @@ excerpt: ...complement the existing class playbooks, while providing an alternat
 categories:
 - magic user
 
-tags:
-- commercial
-- cc-by
+license: cc-by
+cost: commercial
 
 ---

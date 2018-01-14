@@ -11,7 +11,9 @@ excerpt:
 categories:
 - fighter
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - alternate
 ---

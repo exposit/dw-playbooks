@@ -11,7 +11,9 @@ excerpt: Draw out your enemy and strike.
 categories:
 - fighter
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - grim world
 ---

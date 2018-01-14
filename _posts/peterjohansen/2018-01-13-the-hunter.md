@@ -11,7 +11,9 @@ excerpt: A variant on the Ranger that uses traps instead of an animal companion.
 categories:
 - ranger
 
+license: non-free
+cost: pwyw
+
 tags:
-- pwyw
 - lore and lords pack
 ---

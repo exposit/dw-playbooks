@@ -11,7 +11,9 @@ excerpt: Somebody has to keep the airship running.
 categories:
 - other
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - inverse world
 ---

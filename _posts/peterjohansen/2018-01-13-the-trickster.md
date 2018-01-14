@@ -11,7 +11,9 @@ excerpt: A variant on the thief that uses cunning and deceit instead of poisons 
 categories:
 - thief
 
+license: non-free
+cost: pwyw
+
 tags:
-- pwyw
 - lore and lords pack
 ---

@@ -11,8 +11,10 @@ excerpt: A possibly unstable surgeon that grimly stiches their companions back t
 categories:
 - cleric
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - steampunk
 - heroes of steam
 ---

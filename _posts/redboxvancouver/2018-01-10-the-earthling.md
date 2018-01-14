@@ -12,7 +12,9 @@ excerpt:
 categories:
 - other
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - dungeon planet
 ---

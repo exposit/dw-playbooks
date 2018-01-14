@@ -11,7 +11,7 @@ categories:
 - magic user
 - non-human
 
-tags:
-- commercial
+license: non-free
+cost: commercial
 
 ---

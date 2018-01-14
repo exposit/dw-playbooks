@@ -10,9 +10,10 @@ excerpt: Use gadgets. Make your own companions.
 categories:
 - magic user
 
+license: cc-by
+cost: commercial
+
 tags:
-- commercial
 - alternate
-- cc-by
 
 ---

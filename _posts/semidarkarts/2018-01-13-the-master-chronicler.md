@@ -5,11 +5,11 @@ author: Damian Jankowski
 source: SemiDark Arts
 source-url:  http://drivethrurpg.com/browse/pub/6935/SemiDark-Arts
 
-excerpt: 
+excerpt:
 
 categories:
 - bard
 
-tags:
-- commercial
+license: non-free
+cost: commercial
 ---

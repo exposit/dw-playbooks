@@ -11,6 +11,7 @@ excerpt:
 categories:
 - monk
 
-tags:
-- free
+license: non-free
+cost: free
+
 ---

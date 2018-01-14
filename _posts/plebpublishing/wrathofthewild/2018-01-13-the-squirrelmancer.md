@@ -11,7 +11,9 @@ excerpt: You are a deranged hermit obsessed with squirrels.
 categories:
 - magic user
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - wrath of the wild
 ---

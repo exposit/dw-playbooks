@@ -10,6 +10,6 @@ excerpt:
 categories:
 - bard
 
-tags:
-- commercial
+license: non-free
+cost: commercial
 ---

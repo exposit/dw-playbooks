@@ -10,6 +10,7 @@ excerpt: You were born with darkness in your blood, you can mould it to your wil
 categories:
 - thief
 
-tags:
-- commercial
+license: non-free
+cost: commercial
+
 ---

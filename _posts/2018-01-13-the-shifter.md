@@ -12,7 +12,9 @@ categories:
 - ranger
 - non-human
 
+license: non-free
+cost: free
+
 tags:
-- free
 - eberron
 ---

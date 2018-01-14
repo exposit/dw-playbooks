@@ -11,8 +11,9 @@ excerpt: ...channel your constantly shifting emotions into powerful, wild magic 
 categories:
 - magic user
 
+license: cc-by
+cost: commercial
+
 tags:
-- commercial
-- cc-by
 - inverse world
 ---

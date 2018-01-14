@@ -11,7 +11,9 @@ excerpt: A supernatural predator and master of the terrible power of blood.
 categories:
 - other
 
+license: non-free
+cost: pwyw
+
 tags:
-- pwyw
 - lore and lords pack
 ---

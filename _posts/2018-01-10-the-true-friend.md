@@ -11,6 +11,9 @@ excerpt:
 categories:
 - bard
 
+license: unknown
+cost: free
+
 tags:
 - unattributed
 ---

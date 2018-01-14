@@ -11,6 +11,7 @@ excerpt: ...a Fighter variant that was more about knowing how to use your gear t
 categories:
 - fighter
 
-tags:
-- free
+license: non-free
+cost: free
+
 ---

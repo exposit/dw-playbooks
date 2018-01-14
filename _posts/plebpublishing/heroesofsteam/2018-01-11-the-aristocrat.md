@@ -11,8 +11,10 @@ excerpt: Use your money and influence to manipulate others...
 categories:
 - bard
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - steampunk
 - heroes of steam
 ---

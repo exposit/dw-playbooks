@@ -11,7 +11,9 @@ excerpt: ...focuses on wielding a variety of psionic mind powers.
 categories:
 - psion
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - grim world
 ---

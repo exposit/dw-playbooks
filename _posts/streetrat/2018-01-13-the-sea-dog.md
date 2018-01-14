@@ -10,8 +10,10 @@ excerpt:
 categories:
 - fighter
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - pirates
 
 ---

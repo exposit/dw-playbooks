@@ -11,7 +11,9 @@ excerpt: You are a living tree.
 categories:
 - fighter
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - wrath of the wild
 ---

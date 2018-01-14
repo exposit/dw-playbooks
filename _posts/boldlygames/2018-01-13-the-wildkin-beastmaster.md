@@ -11,7 +11,9 @@ excerpt: ...specializes in leading a pack of animal companions.
 categories:
 - ranger
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - grim world
 ---

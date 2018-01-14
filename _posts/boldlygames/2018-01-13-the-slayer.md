@@ -11,7 +11,9 @@ excerpt: Satisfy your bloodthirst by slaying foes.
 categories:
 - fighter
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - grim world
 ---

@@ -11,7 +11,9 @@ excerpt: A spell caster who draws strength and inspiration from the animals of t
 categories:
 - druid
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - wrath of the wild
 ---

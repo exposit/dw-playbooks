@@ -10,8 +10,9 @@ excerpt: A variant thief playbook.
 categories:
 - thief
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
-- alternate
 - variant
 ---

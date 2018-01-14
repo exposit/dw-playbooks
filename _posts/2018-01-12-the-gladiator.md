@@ -11,8 +11,9 @@ excerpt:
 categories:
 - fighter
 
+license: cc-by
+cost: free
+
 tags:
-- free
-- cc-by
 - dark sun
 ---

@@ -10,6 +10,6 @@ excerpt:
 categories:
 - thief
 
-tags:
-- commercial
+license: non-free
+cost: commercial
 ---

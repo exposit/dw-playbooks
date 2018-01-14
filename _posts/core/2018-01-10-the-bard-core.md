@@ -11,8 +11,9 @@ excerpt:
 categories:
 - magic user
 
+license: cc-by
+cost: free
+
 tags:
-- cc-by
-- free
 - vanilla
 ---

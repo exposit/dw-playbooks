@@ -10,7 +10,7 @@ excerpt: The bard of Celtic lore and legend; a shapeshifter, satirist, and trick
 categories:
 - bard
 
-tags:
-- free
-- cc-by
+license: cc-by
+cost: free
+
 ---

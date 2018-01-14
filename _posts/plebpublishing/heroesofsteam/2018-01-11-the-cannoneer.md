@@ -11,8 +11,10 @@ excerpt: Due to sheer strength and size, you are able to wield and fire cannons 
 categories:
 - fighter
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - steampunk
 - heroes of steam
 ---

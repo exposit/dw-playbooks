@@ -10,9 +10,10 @@ excerpt: Harry Potter-inspired wizard.
 categories:
 - magic user
 
+license: non-free
+cost: free
+
 tags:
-- commercial
-- free
 - non-vancian
 
 ---

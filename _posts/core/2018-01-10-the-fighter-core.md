@@ -11,8 +11,9 @@ excerpt: The fighter hits stuff.
 categories:
 - fighter
 
+license: cc-by
+cost: free
+
 tags:
-- cc-by
-- free
 - vanilla
 ---

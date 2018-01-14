@@ -10,7 +10,7 @@ excerpt: An alternative spellcasting playbook to the Wizard, that doesn't requir
 categories:
 - magic user
 
-tags:
-- cc-by
-- free
+license: cc-by
+cost: free
+
 ---

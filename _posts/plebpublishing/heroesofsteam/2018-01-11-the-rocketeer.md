@@ -11,8 +11,10 @@ excerpt: What could go wrong when you are strapped to a rocket?
 categories:
 - fighter
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - steampunk
 - heroes of steam
 ---

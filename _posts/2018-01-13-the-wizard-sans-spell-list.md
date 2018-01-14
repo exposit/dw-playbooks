@@ -11,6 +11,7 @@ excerpt:
 categories:
 - magic user
 
-tags:
-- free
+license: non-free
+cost: free
+
 ---

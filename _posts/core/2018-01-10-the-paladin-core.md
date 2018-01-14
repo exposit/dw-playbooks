@@ -11,8 +11,9 @@ excerpt:
 categories:
 - paladin
 
+license: cc-by
+cost: free
+
 tags:
-- cc-by
-- free
 - vanilla
 ---

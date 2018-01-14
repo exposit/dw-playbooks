@@ -11,7 +11,9 @@ excerpt: It&apos;s a combination of fast and deadly wand combat, and wild west l
 categories:
 - magic user
 
+license: cc-by
+cost: commercial
+
 tags:
-- commercial
-- cc-by
+- wild west
 ---

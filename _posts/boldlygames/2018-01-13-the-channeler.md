@@ -11,7 +11,9 @@ excerpt: Unleash raw magic if your flesh can bear it.
 categories:
 - magic user
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - grim world
 ---

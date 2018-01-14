@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <div class="starter-template row">
+    <h1>{{ page.tag | capitalize }} ({{ site.tags[page.tag] | size }})</h1>
+    <p class="lead">Items are just <a href="https://github.com/exposit/dw-playbooks/tree/gh-pages/_posts">posts</a>. Type to search. Click on row headers to sort. <br /> See a <a href="output.json">JSON representation</a> of the data below.<br>Back to the <a href="https://exposit.github.io/dw-playbooks/">main page</a>.</p>
+  </div>
+
+{% include interactive-tagtable.html %}
+
+<div class="row">
+<p><small>Built with <a href="https://github.com/rypan/jekyll-db">Jekyll-db</a>, using <a href="http://jekyllrb.com/">Jekyll</a> + <a href="http://listjs.com/">ListJS</a> + <a href="http://getbootstrap.com/">Bootstrap</a>.  This repo & readme is <a href="https://github.com/exposit/dw-playbooks/tree/gh-pages">here</a>.</small></p>
+</div>
+
+</div><!-- /.container -->
+
+</div>

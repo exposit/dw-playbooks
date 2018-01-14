@@ -10,7 +10,7 @@ excerpt:
 categories:
 - psion
 
-tags:
-- commercial
+license: non-open
+cost: paid
 
 ---

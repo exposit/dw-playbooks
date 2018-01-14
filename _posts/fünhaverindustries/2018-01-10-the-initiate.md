@@ -11,7 +11,7 @@ excerpt: You have learned the secret of fighting with nothing.
 categories:
 - monk
 
-tags:
-- commercial
-- cc-by-sa
+license: cc-by-sa
+cost: commercial
+
 ---

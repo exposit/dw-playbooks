@@ -11,8 +11,10 @@ excerpt: You are a wild card gunslinger who specialist in pistols.
 categories:
 - fighter
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - steampunk
 - heroes of steam
 ---

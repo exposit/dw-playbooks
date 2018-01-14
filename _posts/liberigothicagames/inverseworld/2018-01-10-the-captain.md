@@ -11,7 +11,9 @@ excerpt: The dashing captain of an airship.
 categories:
 - other
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - inverse world
 ---

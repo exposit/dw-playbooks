@@ -11,7 +11,9 @@ excerpt: ...you are a spell caster who draws on the plants of the world for your
 categories:
 - druid
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - wrath of the wild
 ---

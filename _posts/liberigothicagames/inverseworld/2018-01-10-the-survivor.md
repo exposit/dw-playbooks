@@ -11,7 +11,9 @@ excerpt: The Survivor survives.
 categories:
 - other
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - inverse world
 ---

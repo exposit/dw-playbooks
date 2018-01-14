@@ -11,7 +11,9 @@ excerpt:
 categories:
 - bard
 
+license: non-free
+cost: pwyw
+
 tags:
-- pwyw
 - war and wonders pack
 ---

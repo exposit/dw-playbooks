@@ -11,8 +11,10 @@ excerpt: You are rifle-toting marksmen.
 categories:
 - fighter
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - steampunk
 - heroes of steam
 ---

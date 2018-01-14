@@ -10,6 +10,6 @@ excerpt: Forge new weapons, shields, and armor for you and your allies with modi
 categories:
 - fighter
 
-tags:
-- commercial
+license: non-free
+cost: commercial
 ---

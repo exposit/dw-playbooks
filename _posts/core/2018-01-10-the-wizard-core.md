@@ -11,8 +11,9 @@ excerpt: The wizard casts spells and uses rituals.
 categories:
 - magic user
 
+license: cc-by
+cost: free
+
 tags:
-- cc-by
-- free
 - vanilla
 ---

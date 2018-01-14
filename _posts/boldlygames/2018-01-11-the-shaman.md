@@ -11,7 +11,9 @@ excerpt: Show the wisdom and power of spirits.
 categories:
 - druid
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - grim world
 ---

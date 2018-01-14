@@ -11,7 +11,9 @@ excerpt: Turn defeat into victory and reveal your master plan.
 categories:
 - fighter
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - grim world
 ---

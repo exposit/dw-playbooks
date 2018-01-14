@@ -11,7 +11,9 @@ excerpt: Naturalist, spirit-speaker, and channeler of elemental power.
 categories:
 - druid
 
+license: non-free
+cost: pwyw
+
 tags:
-- pwyw
 - lore and lords pack
 ---

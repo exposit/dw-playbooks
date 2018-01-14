@@ -11,7 +11,7 @@ excerpt:
 categories:
 - fighter
 
-tags:
-- free
-- cc-by
+license: cc-by
+cost: free
+
 ---

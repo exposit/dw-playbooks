@@ -11,8 +11,10 @@ excerpt: Able to fly through the sky.
 categories:
 - thief
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - inverse world
 - setting-dependent
 ---

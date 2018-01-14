@@ -11,7 +11,9 @@ excerpt: Raise the dead to do your bidding.
 categories:
 - magic user
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - grim world
 ---

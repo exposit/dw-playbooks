@@ -11,7 +11,9 @@ excerpt:
 categories:
 - thief
 
+license: non-free
+cost: commercial
+
 tags:
-- commercial
 - inverse world
 ---

@@ -11,6 +11,6 @@ excerpt: A secretive master of a secret cabal, fraternity, or brotherhood who us
 categories:
 - bard
 
-tags:
-- free
+license: non-free
+cost: free
 ---

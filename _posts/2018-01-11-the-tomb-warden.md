@@ -11,6 +11,7 @@ excerpt: A knight imbued with the power of restless ghosts.
 categories:
 - cleric
 
-tags:
-- commercial
+license: non-free
+cost: commercial
+
 ---

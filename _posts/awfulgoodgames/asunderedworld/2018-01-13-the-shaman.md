@@ -10,7 +10,7 @@ excerpt:
 categories:
 - druid
 
-tags:
-- commercial
+license: non-open
+cost: paid
 
 ---

@@ -10,6 +10,6 @@ excerpt:
 categories:
 - cleric
 
-tags:
-- commercial
+license: non-free
+cost: commercial
 ---

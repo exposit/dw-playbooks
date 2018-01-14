@@ -11,7 +11,9 @@ excerpt: Smite the unworthy with cleansing flame.
 categories:
 - paladin
 
+license: non-open
+cost: paid
+
 tags:
-- commercial
 - grim world
 ---

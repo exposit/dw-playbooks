@@ -11,7 +11,9 @@ excerpt: A servant of Death, wielding one of his terrible weapons and powers in 
 categories:
 - fighter
 
+license: non-free
+cost: pwyw
+
 tags:
-- pwyw
 - lore and lords pack
 ---

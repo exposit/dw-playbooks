@@ -1,6 +1,6 @@
 ---
 layout: entry
-playbook-name: The Wizard 
+playbook-name: The Wizard
 link: https://www.dropbox.com/sh/vdpv5x83v87lsza/AAA9EUnIU51g_jRzwJw9ec0oa?dl=0
 author: Anthony Giovannetti
 source: google+
@@ -11,7 +11,9 @@ excerpt: Part of Anthony Giovannetti's hack of the Dungeon World core playbooks
 categories:
 - magic user
 
+license: non-open
+cost: free
+
 tags:
-- free 
 - alternate
 ---

@@ -9,10 +9,11 @@ source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 categories:
 - paladin
 
+license: cc-by
+cost: commercial
+
 tags:
-- commercial
 - alternate
-- cc-by
 
 ---
 

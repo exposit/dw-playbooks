@@ -11,8 +11,9 @@ excerpt: The thief steals stuff.
 categories:
 - thief
 
+license: cc-by
+cost: free
+
 tags:
-- cc-by
-- free
 - vanilla
 ---

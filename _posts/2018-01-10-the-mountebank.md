@@ -11,6 +11,7 @@ excerpt:
 categories:
 - bard
 
-tags:
-- pwyw
+license: non-free
+cost: pwyw
+
 ---
