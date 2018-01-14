@@ -6,7 +6,7 @@ author: Cameron Burns
 source: google+
 source-url: https://plus.google.com/+CameronBurnsAU
 
-description:
+description: An alternative to the Vancian Wizard trope, this playbook lets the player create the spells they cast. 
 
 categories:
 - magic user
