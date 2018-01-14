@@ -27,7 +27,7 @@ author: ['Jane Doe', 'John Smith']
 source: The DW Supplement
 source-url: http://thedungeon.world/supplement
 
-excerpt: Put the description of your playbook here. Keep it short.
+excerpt: Put the description of your playbook here. Keep it short; no more than 200 characters will display.
 
 categories:
 - category (use archetype or categories from similar playbooks already entered)
@@ -42,7 +42,7 @@ tags:
 
 ---
 
-  Any content you want shown on the individual entry page should go here. If you don't use an explicit excerpt field above, one will be generated here.
+  Any content you want shown on the individual entry page should go here. If you don't use an explicit excerpt field above, one will be generated here, using the first 200 characters.
 
 ```
 
