@@ -30,7 +30,7 @@ excerpt: Put the description of your playbook here. Keep it short; no more than 
  will display.
 
 categories:
-- category (use archetype or categories from similar playbooks already entered)
+- category (use an existing category please)
 
 tags:
 - commercial or free
