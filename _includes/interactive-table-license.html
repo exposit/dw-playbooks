@@ -21,6 +21,7 @@
 	</thead>
 	<tbody class="list">
 	{% for post in site.posts %}
+	  {% if page.license == post.license %}
 		<tr>
 			<td class="playbook-name"><a href="{{ post.link }}" target="new"><i class="fa fa-external-link"></i></a> &nbsp;&nbsp; <a href="{{ site.baseurl }}{{ post.url }}">
 				{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
@@ -29,7 +30,7 @@
 			</a></td>
 			<td class="source">
 				{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
-			<td class="license"><a href="{{ site.baseurl }}/{{post.license}}.html">{{ post.license }}</a></td>
+			<td class="license">{{ post.license }}</td>
 			<td class="cost">{{ post.cost }}</td>
 			<td class="author"><a href="{{ site.baseurl }}/authors.html#{{post.author}}">{{ post.author | join: ", " }}</a></td>
 			<td class="description">{{ post.excerpt | truncate: 200 }}</td>
@@ -39,6 +40,7 @@
 				</td>
 			<td class="date-added">{{ post.date | date: "%m-%d-%y" }}</td>
 		</tr>
+		{% endif %}
 	{% endfor %}
 	</tbody>
 </table>

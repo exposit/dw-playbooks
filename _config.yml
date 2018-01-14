@@ -2,4 +2,4 @@ repository: dw-playbooks
 staticman:
   branch: gh-pages
 permalink: /:slug-:month:day:short_year
-all-paged-tags: ['cc-by', 'alternate', 'commercial', 'free']
+include: ['_pages']
