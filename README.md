@@ -13,8 +13,10 @@ Big list of all Dungeon World playbooks
 File name format is `{[currentyear}}-{{currentmonth}}-{{currentday}}-{{classname}}.md`.  
 Example: `2018-01-03-the-dw-class.md`.
 
+Verify that the chosen date is not in use for the class name you want first.
+
 ### File Format
-Example format below. Copy and paste and change for the playbook you're submitting.
+Example format below. Copy and paste and change for the playbook you're submitting. You can also choose an existing file as a template.
 
 ```yaml
 ---
@@ -28,7 +30,7 @@ source-url: http://thedungeon.world/supplement
 description: Put the description of your playbook here. Keep it short.
 
 categories:
-- category (use archetype, categories from similar playbooks already entered)
+- category (use archetype or categories from similar playbooks already entered)
 
 tags:
 - commercial or free
@@ -39,8 +41,8 @@ tags:
 - anything else you think relevant
 ```
 
-Note: Please put direct quotes from a product page in quotes; surround quoted material with quotes. Otherwise use your own words. Thanks.
+Note: Please put direct quotes from a product page in quotes; surround quoted material with quotes and replace apostrophes with ```&apos;```. Otherwise use your own words. Thanks.
 
 ```yaml
-description: '"This is a direct quote."'
+description: '"This is a direct quote; it isn&apos;t my own words."'
 ```
