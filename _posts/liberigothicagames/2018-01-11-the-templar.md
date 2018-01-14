@@ -6,8 +6,6 @@ author: Jacob Randolph
 source: Liberi Gothica Games
 source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 
-excerpt:
-
 categories:
 - leader
 
@@ -15,4 +13,7 @@ tags:
 - commercial
 - alternate
 - cc-by
+
 ---
+
+The playbooks in this packet are replacement classes for the Cleric, Paladin, and Wizard, replacing them with the Priest, Templar, and Mage, respectively.

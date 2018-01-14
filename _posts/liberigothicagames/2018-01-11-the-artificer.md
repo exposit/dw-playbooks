@@ -1,13 +1,14 @@
 ---
 layout: entry
-playbook-name: The Priest
 link: http://www.drivethrurpg.com/product/108623/Dungeon-World-Alternative-Playbooks
 author: Jacob Randolph
 source: Liberi Gothica Games
 source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 
+excerpt: Use gadgets. Make your own companions.
+
 categories:
-- cleric
+- magic user
 
 tags:
 - commercial
@@ -15,5 +16,3 @@ tags:
 - cc-by
 
 ---
-
-The playbooks in this packet are replacement classes for the Cleric, Paladin, and Wizard, replacing them with the Priest, Templar, and Mage, respectively.
