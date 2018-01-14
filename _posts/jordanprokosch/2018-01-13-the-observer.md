@@ -9,7 +9,7 @@ excerpt: ...being a giant floating eye that is a true master of the arcane!
 
 categories:
 - magic user
-- monster
+- non-human
 
 tags:
 - commercial

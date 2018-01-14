@@ -9,7 +9,7 @@ source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 excerpt: You are a homeless and luckless wretch who wants to escape the life of poverty by making it as an adventurer.
 
 categories:
-- quirky
+- other
 
 tags:
 - commercial

@@ -9,7 +9,7 @@ source-url: http://www.meromorphgames.com/
 excerpt: ...complement the existing class playbooks, while providing an alternative for players who want to try an arcane class that relies on otherworldly patrons for power.
 
 categories:
-- magic-user
+- magic user
 
 tags:
 - commercial

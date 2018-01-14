@@ -8,7 +8,7 @@ source-url:  http://drivethrurpg.com/browse/pub/6935/SemiDark-Arts
 excerpt:
 
 categories:
-- rogue
+- thief
 
 tags:
 - commercial

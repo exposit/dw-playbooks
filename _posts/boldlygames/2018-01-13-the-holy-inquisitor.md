@@ -9,7 +9,6 @@ source-url: http://drivethrurpg.com/browse/pub/8220/Boldly-Games
 excerpt: Smite the unworthy with cleansing flame.
 
 categories:
-- leader
 - paladin
 
 tags:

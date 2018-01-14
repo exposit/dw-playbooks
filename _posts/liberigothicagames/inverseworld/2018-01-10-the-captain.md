@@ -9,7 +9,7 @@ source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 excerpt: The dashing captain of an airship.
 
 categories:
-- leader
+- other
 
 tags:
 - commercial

@@ -9,7 +9,7 @@ excerpt:
 
 categories:
 - thief
-- monster
+- non-human
 
 tags:
 - commercial

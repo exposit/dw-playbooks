@@ -9,7 +9,7 @@ source-url: http://www.meromorphgames.com/
 excerpt: ...meant to complement the existing class playbooks, while providing an alternative for players who want to try a mage class that doesn't use spellbooks or learn magic by study.
 
 categories:
-- magic-user
+- magic user
 
 tags:
 - commercial

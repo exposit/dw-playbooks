@@ -10,7 +10,7 @@ excerpt:
 
 categories:
 - ranger
-- race
+- non-human
 
 tags:
 - free

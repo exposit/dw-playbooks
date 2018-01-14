@@ -47,4 +47,4 @@ tags:
 
 ```
 
-Note: Please use your own words or a short excerpt from the product page.
+Note: Please use your own words or a short quote from the product page.

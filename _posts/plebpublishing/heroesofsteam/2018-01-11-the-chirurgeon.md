@@ -9,7 +9,6 @@ source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 excerpt: A possibly unstable surgeon that grimly stiches their companions back together.
 
 categories:
-- medic
 - cleric
 
 tags:

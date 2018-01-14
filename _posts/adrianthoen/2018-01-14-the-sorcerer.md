@@ -9,7 +9,7 @@ source-url: https://plus.google.com/+AdrianThoen
 excerpt: ...channel your constantly shifting emotions into powerful, wild magic with unusual results. So open up your heart, get in touch with your emotions, and let the magic fly!
 
 categories:
-- magic-user
+- magic user
 
 tags:
 - commercial

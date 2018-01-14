@@ -9,7 +9,7 @@ source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 excerpt: The Survivor survives.
 
 categories:
-- quirky
+- other
 
 tags:
 - commercial

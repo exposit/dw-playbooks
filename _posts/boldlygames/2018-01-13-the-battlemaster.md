@@ -9,7 +9,7 @@ source-url: http://drivethrurpg.com/browse/pub/8220/Boldly-Games
 excerpt: Turn defeat into victory and reveal your master plan.
 
 categories:
-- leader
+- fighter
 
 tags:
 - commercial
