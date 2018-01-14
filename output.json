@@ -6,7 +6,8 @@ layout: none
 	"source": "{{post.source}}",
 	"source-url": "{{post.source-url}}",
 	"author": "{{post.author}}",
-	"description": "{{post.description}}",
+	"description": "{{post.excerpt}}",
+	"content": "{{post.content}}",
 	"link": "{{post.link}}",
 	"tags": "{{ post.tags | array_to_sentence_string }}",
 	"categories": "{{post.categories}}"
