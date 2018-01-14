@@ -6,7 +6,7 @@ author: Adrian Thoen
 source: google+
 source-url: https://plus.google.com/+AdrianThoen
 
-description: ""The Sorcerer is a Playbook designed for use with Dungeon World and Inverse World. As The Sorcerer, you channel your constantly shifting emotions into powerful, wild magic with unusual results. So open up your heart, get in touch with your emotions, and let the magic fly!""
+description: '"The Sorcerer is a Playbook designed for use with Dungeon World and Inverse World. As The Sorcerer, you channel your constantly shifting emotions into powerful, wild magic with unusual results. So open up your heart, get in touch with your emotions, and let the magic fly!"'
 
 categories:
 - magic-user
