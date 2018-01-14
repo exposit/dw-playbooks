@@ -2,7 +2,7 @@
 layout: none
 ---
 [{% for post in site.posts %}{
-	"playbook-name": "{{post.playbook-name}}",
+	"playbook-name": "{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}",
 	"source": "{{post.source}}",
 	"source-url": "{{post.source-url}}",
 	"author": "{{post.author}}",

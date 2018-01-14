@@ -20,7 +20,6 @@ Example format below. Copy and paste and change for the playbook you're submitti
 ---
 layout: entry
 permalink: /the-dw-class
-playbook-name: The DW Class
 link: http://www.thedwclass.world
 author: ['Jane Doe', 'John Smith']
 source: The DW Supplement
