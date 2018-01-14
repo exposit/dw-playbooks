@@ -9,11 +9,13 @@
 	<thead>
 		<tr>
 			<th style="width:15%;"><span class="sort" data-sort="playbook-name">Playbook Name</span></th>
-			<th style="width:10%;"><span class="sort" data-sort="source">Source</span></th>
+			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
+			<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="cost">Cost</span></th>
 			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
-			<th style="width:25%;"><span class="sort" data-sort="description">Description</span></th>
+			<th style="width:30%;"><span class="sort" data-sort="description">Description</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
-			<th style="width:15%;"><span class="sort" data-sort="tags">Tags</span></th>
+			<th style="width:5%;"><span class="sort" data-sort="tags">Tags</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="date-added">Date Added</span></th>
 		</tr>
 	</thead>
@@ -25,16 +27,15 @@
 				{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
 				{{ titlecase }}
 			</a></td>
-			<!--<td class="playbook-name"><a href="{{ post.link }}" target="new">{{ post.playbook-name }}</a></td>-->
 			<td class="source">
 				{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
+			<td class="license">{{ post.license }}</td>
+			<td class="cost">{{ post.cost }}</td>
 			<td class="author"><a href="{{ site.baseurl }}/authors.html#{{post.author}}">{{ post.author | join: ", " }}</a></td>
 			<td class="description">{{ post.excerpt | truncate: 200 }}</td>
 			<td class="category">{% for cat in post.categories %}<a href="{{ site.baseurl }}/{{ cat | replace: ' ', '-' }}.html">{{ cat }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</td>
-			<td class="tags">{% for tag in post.tags %}
-				{% if site.all-paged-tags contains tag %}
-				<a href="{{ site.baseurl }}/{{ tag | replace: ' ', '-' }}.html">{{ tag }}</a>{% else %}{{ tag }}{% endif %}{% if forloop.last == false %}, {% endif %}
-				{% endfor %}
+			<td class="tags">{% if post.tags %}{% for tag in post.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}
+				{% endfor %}{% endif %}
 				</td>
 			<td class="date-added">{{ post.date | date: "%m-%d-%y" }}</td>
 		</tr>
@@ -47,7 +48,7 @@
 
 <script type="text/javascript">
 var options = {
-  valueNames: ['playbook-name', 'source', 'author', 'description', 'category', 'tags', 'date-added']
+  valueNames: ['playbook-name', 'source', 'license', 'cost', 'author', 'description', 'category', 'tags', 'date-added']
 };
 var entryList = new List('entry-list', options);
 

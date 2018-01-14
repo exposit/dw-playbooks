@@ -5,6 +5,8 @@ layout: none
 	"playbook-name": "{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}",
 	"source": "{{post.source}}",
 	"source-url": "{{post.source-url}}",
+	"license": "{{post.license}}",
+	"cost": "{{post.cost}}",
 	"author": "{{post.author}}",
 	"description": "{{post.excerpt}}",
 	"content": "{{post.content}}",

@@ -32,10 +32,10 @@ excerpt: Put the description of your playbook here. Keep it short; no more than 
 categories:
 - category (use an existing category please)
 
+license: cc-by, non-free, unknown
+cost: commercial, free, pwyw
+
 tags:
-- commercial or free
-- license (if not commercial)
-- pwyw (if it is)
 - setting (if there is one)
 - pack (if there is one)
 - anything else you think relevant
