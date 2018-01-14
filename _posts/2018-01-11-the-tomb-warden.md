@@ -6,7 +6,7 @@ author: Unknown
 source: Imploding Dice
 source-url: http://drivethrurpg.com/browse/pub/8232/Imploding-Dice
 
-excerpt: '"A knight imbued with the power of restless ghosts."'
+excerpt: A knight imbued with the power of restless ghosts.
 
 categories:
 - cleric

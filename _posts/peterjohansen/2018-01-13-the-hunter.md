@@ -6,7 +6,7 @@ author: Peter Johansen
 source: Peter Johansen
 source-url: http://drivethrurpg.com/browse/pub/6532/Peter-Johansen
 
-excerpt: '"A variant on the Ranger that uses traps instead of an animal companion."'
+excerpt: A variant on the Ranger that uses traps instead of an animal companion.
 
 categories:
 - ranger

@@ -6,7 +6,7 @@ author: ['Trenton Kennedy', 'Greyoak']
 source: Boldly Games
 source-url: http://drivethrurpg.com/browse/pub/8220/Boldly-Games
 
-excerpt: '"Draw out your enemy and strike."'
+excerpt: Draw out your enemy and strike.
 
 categories:
 - fighter

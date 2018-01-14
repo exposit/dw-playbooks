@@ -6,7 +6,7 @@ author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-excerpt: '"You are a living tree."'
+excerpt: You are a living tree.
 
 categories:
 - fighter

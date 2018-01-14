@@ -46,8 +46,4 @@ tags:
 
 ```
 
-Note: Please put direct quotes from a product page in quotes; surround quoted material with quotes and replace apostrophes with ```&apos;```. Otherwise use your own words. Thanks.
-
-```yaml
-excerpt: '"This is a direct quote; it isn&apos;t my own words."'
-```
+Note: Please use your own words or a short excerpt from the product page.

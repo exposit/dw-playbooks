@@ -6,7 +6,7 @@ author: ['Trenton Kennedy', 'Greyoak']
 source: Boldly Games
 source-url: http://drivethrurpg.com/browse/pub/8220/Boldly-Games
 
-excerpt: '"Show the wisdom and power of spirits."'
+excerpt: Show the wisdom and power of spirits.
 
 categories:
 - druid

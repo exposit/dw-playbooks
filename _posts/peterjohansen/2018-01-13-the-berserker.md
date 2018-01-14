@@ -6,7 +6,7 @@ author: Peter Johansen
 source: Peter Johansen
 source-url: http://drivethrurpg.com/browse/pub/6532/Peter-Johansen
 
-excerpt: '"A wild rager, capable of great feats of destruction, but at risk to himself and others."'
+excerpt: A wild rager, capable of great feats of destruction, but at risk to himself and others.
 
 categories:
 - barbarian

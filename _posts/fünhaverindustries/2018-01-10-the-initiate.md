@@ -6,7 +6,7 @@ author:  Josh Krutt
 source: Fünhaver Industries
 source-url: http://drivethrurpg.com/browse/pub/4547/Fnhaver-Industries
 
-excerpt: '"You have learned the secret of fighting with nothing."'
+excerpt: You have learned the secret of fighting with nothing.
 
 categories:
 - monk

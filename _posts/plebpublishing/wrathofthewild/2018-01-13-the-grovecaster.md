@@ -6,7 +6,7 @@ author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-excerpt: '"...you are a spell caster who draws on the plants of the world for your magic."'
+excerpt: ...you are a spell caster who draws on the plants of the world for your magic.
 
 categories:
 - druid

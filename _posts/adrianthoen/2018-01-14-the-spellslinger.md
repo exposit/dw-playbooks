@@ -6,7 +6,7 @@ author: Adrian Thoen
 source: google+
 source-url: https://plus.google.com/+AdrianThoen
 
-excerpt: '"It&apos;s a combination of fast and deadly wand combat, and wild west lone gunman antics."'
+excerpt: It&apos;s a combination of fast and deadly wand combat, and wild west lone gunman antics.
 
 categories:
 - magic-user

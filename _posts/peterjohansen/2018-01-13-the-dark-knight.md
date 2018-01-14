@@ -6,7 +6,7 @@ author: Peter Johansen
 source: Peter Johansen
 source-url: http://drivethrurpg.com/browse/pub/6532/Peter-Johansen
 
-excerpt: '"A servant of Death, wielding one of his terrible weapons and powers in exchange for a dark price."'
+excerpt: A servant of Death, wielding one of his terrible weapons and powers in exchange for a dark price.
 
 categories:
 - fighter

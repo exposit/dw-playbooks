@@ -6,7 +6,7 @@ author: ['Trenton Kennedy', 'Greyoak']
 source: Boldly Games
 source-url: http://drivethrurpg.com/browse/pub/8220/Boldly-Games
 
-excerpt: '"Unleash raw magic if your flesh can bear it."'
+excerpt: Unleash raw magic if your flesh can bear it.
 
 categories:
 - magic user

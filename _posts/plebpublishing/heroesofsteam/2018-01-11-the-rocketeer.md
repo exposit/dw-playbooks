@@ -6,7 +6,7 @@ author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-excerpt: '"What could go wrong when you are strapped to a rocket?"'
+excerpt: What could go wrong when you are strapped to a rocket?
 
 categories:
 - fighter

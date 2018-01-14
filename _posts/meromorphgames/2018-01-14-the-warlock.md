@@ -6,7 +6,7 @@ author: Kevin Bishop
 source: Meromorph Games
 source-url: http://www.meromorphgames.com/
 
-excerpt: '"The Warlock is a class playbook for use with the Dungeon World roleplaying game. It is meant to complement the existing class playbooks, while providing an alternative for players who want to try an arcane class that relies on otherworldly patrons for power."'
+excerpt: The Warlock is a class playbook for use with the Dungeon World roleplaying game. It is meant to complement the existing class playbooks, while providing an alternative for players who want to try an arcane class that relies on otherworldly patrons for power.
 
 categories:
 - magic-user
