@@ -9,7 +9,7 @@ source-url: http://www.dungeon-world.com/
 excerpt:
 
 categories:
-- divine
+- cleric
 
 tags:
 - cc-by

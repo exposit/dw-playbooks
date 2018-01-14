@@ -9,8 +9,7 @@ source-url: http://www.dungeon-world.com/
 excerpt:
 
 categories:
-- fighter
-- divine
+- paladin
 
 tags:
 - cc-by
