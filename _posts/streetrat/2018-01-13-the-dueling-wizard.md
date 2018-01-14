@@ -5,7 +5,7 @@ author: Peter Louw
 source: Street Rat Games
 source-url: http://drivethrurpg.com/browse/pub/5918/Street-Rat-Games
 
-description: Harry Potter-inspired wizard.
+excerpt: Harry Potter-inspired wizard.
 
 categories:
 - magic user

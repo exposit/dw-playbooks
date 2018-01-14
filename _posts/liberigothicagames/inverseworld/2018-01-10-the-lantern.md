@@ -6,7 +6,7 @@ author: ['Jacob Randolph', 'Brandon Schmelz']
 source: Liberi Gothica Games
 source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 
-description: The Green Lantern in an upside-down world.
+excerpt: The Green Lantern in an upside-down world.
 
 categories:
 - magic user

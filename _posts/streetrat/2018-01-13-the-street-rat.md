@@ -5,7 +5,7 @@ author: James Shields
 source: Street Rat Games
 source-url: http://drivethrurpg.com/browse/pub/5918/Street-Rat-Games
 
-description: '"He has some moves similar to that of a thief, but he is an urban acrobat, a parkour athlete, a social hacker, a devious fighter, and above all, a survivor. And he has just enough urban magic to give him the awesomeness he deserves."'
+excerpt: '"He has some moves similar to that of a thief, but he is an urban acrobat, a parkour athlete, a social hacker, a devious fighter, and above all, a survivor. And he has just enough urban magic to give him the awesomeness he deserves."'
 
 categories:
 - thief

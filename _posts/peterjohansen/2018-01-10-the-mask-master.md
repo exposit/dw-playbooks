@@ -6,7 +6,7 @@ author: Peter Johansen
 source: Peter Johansen
 source-url: http://drivethrurpg.com/browse/pub/6532/Peter-Johansen
 
-description:
+excerpt:
 
 categories:
 - bard

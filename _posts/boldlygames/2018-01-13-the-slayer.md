@@ -6,7 +6,7 @@ author: ['Trenton Kennedy', 'Greyoak']
 source: Boldly Games
 source-url: http://drivethrurpg.com/browse/pub/8220/Boldly-Games
 
-description: '"Satisfy your bloodthirst by slaying foes."'
+excerpt: '"Satisfy your bloodthirst by slaying foes."'
 
 categories:
 - fighter

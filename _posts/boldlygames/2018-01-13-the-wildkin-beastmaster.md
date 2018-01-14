@@ -6,7 +6,7 @@ author: ['Trenton Kennedy', 'Greyoak']
 source: Boldly Games
 source-url: http://drivethrurpg.com/browse/pub/8220/Boldly-Games
 
-description: '"...specializes in leading a pack of animal companions."'
+excerpt: '"...specializes in leading a pack of animal companions."'
 
 categories:
 - ranger

@@ -5,7 +5,7 @@ author: Jonathan Pearce
 source: Jonathan Pearce
 source-url: http://jonathan.pearce.name/dungeonworld/index.php?title=Classes
 
-description:
+excerpt:
 
 categories:
 - thief

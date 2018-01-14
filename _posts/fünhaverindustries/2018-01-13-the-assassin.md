@@ -5,7 +5,7 @@ author:  Alex Norris
 source: Fünhaver Industries
 source-url: http://drivethrurpg.com/browse/pub/4547/Fnhaver-Industries
 
-description:
+excerpt:
 
 categories:
 - thief

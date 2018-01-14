@@ -6,7 +6,7 @@ author: Unknown
 source:
 source-url:
 
-description:
+excerpt:
 
 categories:
 - bard

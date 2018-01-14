@@ -5,7 +5,7 @@ author: Jordan Prokosch
 source: Jordan Prokosch
 source-url: http://drivethrurpg.com/browse/pub/6472/Jordan-Prokosch
 
-description: '"...being a giant floating eye that is a true master of the arcane!"'
+excerpt: '"...being a giant floating eye that is a true master of the arcane!"'
 
 categories:
 - magic user

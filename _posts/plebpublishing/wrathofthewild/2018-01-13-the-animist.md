@@ -6,7 +6,7 @@ author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-description: '"A spell caster who draws strength and inspiration from the animals of the world."'
+excerpt: '"A spell caster who draws strength and inspiration from the animals of the world."'
 
 categories:
 - druid

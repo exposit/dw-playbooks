@@ -5,7 +5,7 @@ author: Street Rat Games
 source: Street Rat Games
 source-url: http://drivethrurpg.com/browse/pub/5918/Street-Rat-Games
 
-description: '"You were not always obsessed with explosions."'
+excerpt: '"You were not always obsessed with explosions."'
 
 categories:
 - fighter

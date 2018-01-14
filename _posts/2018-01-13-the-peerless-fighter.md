@@ -6,7 +6,7 @@ author: Alex Norris
 source: google+
 source-url: https://plus.google.com/+AlexNorris/posts/hNoDXgjAZnt
 
-description: '"...a Fighter variant that was more about knowing how to use your gear than about being strong or having a special sword..."'
+excerpt: '"...a Fighter variant that was more about knowing how to use your gear than about being strong or having a special sword..."'
 
 categories:
 - fighter

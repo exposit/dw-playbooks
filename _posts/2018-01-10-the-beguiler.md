@@ -6,7 +6,7 @@ author: ['Nemo Hana']
 source: google+
 source-url: https://plus.google.com/104067586407986674942/posts/Pp1Cfu69p2U
 
-description:
+excerpt:
 
 categories:
 - bard

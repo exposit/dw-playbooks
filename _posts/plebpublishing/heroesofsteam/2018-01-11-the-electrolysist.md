@@ -6,7 +6,7 @@ author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-description: '"You are an innovative mind who couldn’t be happy with the already advanced technologies your civilization enjoys."'
+excerpt: '"You are an innovative mind who couldn’t be happy with the already advanced technologies your civilization enjoys."'
 
 categories:
 - expert

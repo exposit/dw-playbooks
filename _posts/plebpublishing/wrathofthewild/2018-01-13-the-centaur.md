@@ -6,7 +6,7 @@ author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-description: '"The infamous half-horse, half-man legend is paradoxically a drunken raider and a stalwart guardian against true evil."'
+excerpt: '"The infamous half-horse, half-man legend is paradoxically a drunken raider and a stalwart guardian against true evil."'
 
 categories:
 - fighter

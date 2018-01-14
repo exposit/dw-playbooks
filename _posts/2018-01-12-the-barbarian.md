@@ -6,7 +6,7 @@ author: Alex Putnam
 source: Rite Publishing
 source-url: http://drivethrurpg.com/browse/pub/2373/Rite-Publishing
 
-description:
+excerpt:
 
 categories:
 - barbarian

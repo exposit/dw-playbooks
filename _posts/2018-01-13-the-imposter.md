@@ -5,7 +5,7 @@ author: Unknown
 source:
 source-url:
 
-description:
+excerpt:
 
 categories:
 - thief

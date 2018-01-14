@@ -7,7 +7,7 @@ author: Johnstone Metzger
 source: Red Box Vancouver
 source-url: http://www.drivethrurpg.com/browse/pub/4483/Red-Box-Vancouver
 
-description:
+excerpt:
 
 categories:
 - other

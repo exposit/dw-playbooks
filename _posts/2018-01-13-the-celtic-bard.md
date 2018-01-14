@@ -5,7 +5,7 @@ author: Tam H
 source: katamoiran
 source-url: https://exposit.github.io/katarpgs/
 
-description: The bard of Celtic lore and legend; a shapeshifter, satirist, and trickster.
+excerpt: The bard of Celtic lore and legend; a shapeshifter, satirist, and trickster.
 
 categories:
 - bard

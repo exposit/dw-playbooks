@@ -6,7 +6,7 @@ author: Travis Stout
 source: google+
 source-url: https://plus.google.com/113531853537076758150/posts/gbarovnS27E
 
-description:
+excerpt:
 
 categories:
 - fighter

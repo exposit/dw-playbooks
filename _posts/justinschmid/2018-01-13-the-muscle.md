@@ -5,7 +5,7 @@ author: Justin Schmid
 source:
 source-url:
 
-description:
+excerpt:
 
 categories:
 - thief

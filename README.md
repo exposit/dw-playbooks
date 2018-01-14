@@ -27,7 +27,7 @@ author: ['Jane Doe', 'John Smith']
 source: The DW Supplement
 source-url: http://thedungeon.world/supplement
 
-description: Put the description of your playbook here. Keep it short.
+excerpt: Put the description of your playbook here. Keep it short.
 
 categories:
 - category (use archetype or categories from similar playbooks already entered)
@@ -44,5 +44,5 @@ tags:
 Note: Please put direct quotes from a product page in quotes; surround quoted material with quotes and replace apostrophes with ```&apos;```. Otherwise use your own words. Thanks.
 
 ```yaml
-description: '"This is a direct quote; it isn&apos;t my own words."'
+excerpt: '"This is a direct quote; it isn&apos;t my own words."'
 ```

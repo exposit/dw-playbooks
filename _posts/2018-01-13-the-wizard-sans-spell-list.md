@@ -6,7 +6,7 @@ author: C Wotton
 source: unknown
 source-url:
 
-description:
+excerpt:
 
 categories:
 - magic user

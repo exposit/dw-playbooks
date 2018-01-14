@@ -6,7 +6,7 @@ author: Daniel Backus
 source: Google Drive
 source-url: 
 
-description:
+excerpt:
 
 categories:
 - magic user

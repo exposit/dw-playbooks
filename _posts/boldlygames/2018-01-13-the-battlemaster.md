@@ -6,7 +6,7 @@ author: ['Trenton Kennedy', 'Greyoak']
 source: Boldly Games
 source-url: http://drivethrurpg.com/browse/pub/8220/Boldly-Games
 
-description: '"Turn defeat into victory and reveal your master plan."'
+excerpt: '"Turn defeat into victory and reveal your master plan."'
 
 categories:
 - leader

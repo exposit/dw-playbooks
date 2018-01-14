@@ -6,7 +6,7 @@ author: Jordan MacCarthy
 source: Pleb Publishing
 source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
-description: '"You are rifle-toting marksmen."'
+excerpt: '"You are rifle-toting marksmen."'
 
 categories:
 - fighter

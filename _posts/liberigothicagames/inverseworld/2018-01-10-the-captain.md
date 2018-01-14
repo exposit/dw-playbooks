@@ -6,7 +6,7 @@ author: ['Jacob Randolph', 'Brandon Schmelz']
 source: Liberi Gothica Games
 source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 
-description: The dashing captain of an airship.
+excerpt: The dashing captain of an airship.
 
 categories:
 - leader

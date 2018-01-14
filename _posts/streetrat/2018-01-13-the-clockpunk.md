@@ -5,7 +5,7 @@ author: Street Rat Games
 source: Street Rat Games
 source-url: http://drivethrurpg.com/browse/pub/5918/Street-Rat-Games
 
-description: Time controlling mechanic wizard.
+excerpt: Time controlling mechanic wizard.
 
 categories:
 - magic user

@@ -6,7 +6,7 @@ author: ['Trenton Kennedy', 'Greyoak']
 source: Boldly Games
 source-url: http://drivethrurpg.com/browse/pub/8220/Boldly-Games
 
-description: '"...focuses on wielding a variety of psionic mind powers."'
+excerpt: '"...focuses on wielding a variety of psionic mind powers."'
 
 categories:
 - psion

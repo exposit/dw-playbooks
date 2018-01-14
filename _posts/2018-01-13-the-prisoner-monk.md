@@ -6,7 +6,7 @@ author: bread_wood
 source: reddit
 source-url: https://www.reddit.com/r/DungeonWorld/comments/3d34ab/monk_class/?st=jce1a3kr&sh=226e379d
 
-description:
+excerpt:
 
 categories:
 - monk

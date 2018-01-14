@@ -6,7 +6,7 @@ author: Unknown
 source: Imploding Dice
 source-url: http://drivethrurpg.com/browse/pub/8232/Imploding-Dice
 
-description: '"No matter what ails you, the orc medic is your "friend". "'
+excerpt: '"No matter what ails you, the orc medic is your "friend". "'
 
 categories:
 - cleric

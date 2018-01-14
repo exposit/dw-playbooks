@@ -6,7 +6,7 @@ author: ['Giovanni Lanza']
 source: google+
 source-url: https://plus.google.com/+GiovanniLanza/posts/5bcbRbpdX5y
 
-description:
+excerpt:
 
 categories:
 - ranger

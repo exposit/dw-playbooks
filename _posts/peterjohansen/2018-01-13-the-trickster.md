@@ -6,7 +6,7 @@ author: Peter Johansen
 source: Peter Johansen
 source-url: http://drivethrurpg.com/browse/pub/6532/Peter-Johansen
 
-description: '"A variant on the thief that uses cunning and deceit instead of poisons and knives."'
+excerpt: '"A variant on the thief that uses cunning and deceit instead of poisons and knives."'
 
 categories:
 - thief

@@ -6,7 +6,7 @@ author: Jeremy Friesen
 source: TakeOnRules
 source-url: https://takeonrules.com/
 
-description:
+excerpt:
 
 categories:
 - bard

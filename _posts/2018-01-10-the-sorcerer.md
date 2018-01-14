@@ -6,7 +6,7 @@ author: Kevin Bishop
 source: reddit
 source-url: https://www.reddit.com/r/DungeonWorld/comments/4y4gij/critique_my_sorcerer_hack_of_jacob_randolphs_mage/
 
-description:  
+excerpt:  
 
 categories:
 - magic user

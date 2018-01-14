@@ -5,7 +5,7 @@ author:  Alex Norris
 source: Fünhaver Industries
 source-url: http://drivethrurpg.com/browse/pub/4547/Fnhaver-Industries
 
-description: A variant thief playbook.
+excerpt: A variant thief playbook.
 
 categories:
 - thief
