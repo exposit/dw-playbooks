@@ -11,7 +11,7 @@ excerpt: A variant on the Ranger that uses traps instead of an animal companion.
 categories:
 - ranger
 
-license: non-free
+license: non-open
 cost: pwyw
 
 tags:

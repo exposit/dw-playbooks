@@ -11,7 +11,7 @@ excerpt: He is designed to have a unique style of unarmed combat, based on some 
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 ---

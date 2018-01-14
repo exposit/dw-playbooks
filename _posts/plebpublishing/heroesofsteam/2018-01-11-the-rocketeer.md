@@ -11,7 +11,7 @@ excerpt: What could go wrong when you are strapped to a rocket?
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

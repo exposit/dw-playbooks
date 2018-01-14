@@ -12,7 +12,7 @@ categories:
 - ranger
 - non-human
 
-license: non-free
+license: non-open
 cost: free
 
 tags:

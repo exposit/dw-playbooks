@@ -11,7 +11,7 @@ excerpt: Use your money and influence to manipulate others...
 categories:
 - bard
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

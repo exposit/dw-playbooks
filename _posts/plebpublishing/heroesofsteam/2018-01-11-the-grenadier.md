@@ -11,7 +11,7 @@ excerpt: The Grenadier is an expert in mortar barrages and grenade assaults.
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

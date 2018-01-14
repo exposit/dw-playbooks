@@ -11,7 +11,7 @@ excerpt: The dashing captain of an airship.
 categories:
 - other
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

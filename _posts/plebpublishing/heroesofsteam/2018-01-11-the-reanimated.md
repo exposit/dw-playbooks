@@ -11,7 +11,7 @@ excerpt: Through the miracle of technology, you have been mechanically resurrect
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

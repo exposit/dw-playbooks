@@ -11,7 +11,7 @@ categories:
 - thief
 - magic user
 
-license: non-free
+license: non-open
 cost: paid
 
 ---

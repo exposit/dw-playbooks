@@ -11,7 +11,7 @@ excerpt: You are a wild card gunslinger who specialist in pistols.
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

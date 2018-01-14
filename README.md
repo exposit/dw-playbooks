@@ -32,7 +32,7 @@ excerpt: Put the description of your playbook here. Keep it short; no more than 
 categories:
 - category (use an existing category please)
 
-license: cc-by, non-free, unknown
+license: cc-by, non-open, unknown
 cost: paid, free, pwyw
 
 tags:

@@ -10,7 +10,7 @@ excerpt: A variant thief playbook.
 categories:
 - thief
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

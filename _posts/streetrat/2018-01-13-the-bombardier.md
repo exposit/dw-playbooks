@@ -10,7 +10,7 @@ excerpt: You were not always obsessed with explosions.
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 ---

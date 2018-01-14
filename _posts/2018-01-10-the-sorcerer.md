@@ -11,7 +11,7 @@ excerpt:  An elementally-based variant of Jacob Randolph's mage.
 categories:
 - magic user
 
-license: non-free
+license: non-open
 cost: free
 
 tags:

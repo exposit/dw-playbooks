@@ -11,6 +11,6 @@ excerpt: A secretive master of a secret cabal, fraternity, or brotherhood who us
 categories:
 - bard
 
-license: non-free
+license: non-open
 cost: free
 ---

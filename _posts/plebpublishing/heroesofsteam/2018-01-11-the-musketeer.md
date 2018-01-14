@@ -11,7 +11,7 @@ excerpt: You are rifle-toting marksmen.
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

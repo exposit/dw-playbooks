@@ -11,7 +11,7 @@ excerpt: A supernatural predator and master of the terrible power of blood.
 categories:
 - other
 
-license: non-free
+license: non-open
 cost: pwyw
 
 tags:

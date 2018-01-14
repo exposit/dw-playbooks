@@ -11,7 +11,7 @@ excerpt: ...you are a spell caster who draws on the plants of the world for your
 categories:
 - druid
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

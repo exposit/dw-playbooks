@@ -11,7 +11,7 @@ excerpt: Somebody has to keep the airship running.
 categories:
 - other
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

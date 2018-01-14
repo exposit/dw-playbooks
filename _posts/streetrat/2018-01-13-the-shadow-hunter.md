@@ -10,7 +10,7 @@ excerpt: You were born with darkness in your blood, you can mould it to your wil
 categories:
 - thief
 
-license: non-free
+license: non-open
 cost: paid
 
 ---

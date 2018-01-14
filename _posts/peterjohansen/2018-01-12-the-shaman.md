@@ -11,7 +11,7 @@ excerpt: Naturalist, spirit-speaker, and channeler of elemental power.
 categories:
 - druid
 
-license: non-free
+license: non-open
 cost: pwyw
 
 tags:

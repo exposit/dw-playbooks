@@ -10,6 +10,6 @@ excerpt:
 categories:
 - cleric
 
-license: non-free
+license: non-open
 cost: paid
 ---

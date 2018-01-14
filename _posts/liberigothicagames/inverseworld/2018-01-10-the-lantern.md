@@ -11,7 +11,7 @@ excerpt: The Green Lantern in an upside-down world.
 categories:
 - magic user
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

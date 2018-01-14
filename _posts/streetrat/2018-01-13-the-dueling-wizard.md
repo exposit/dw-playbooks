@@ -10,7 +10,7 @@ excerpt: Harry Potter-inspired wizard.
 categories:
 - magic user
 
-license: non-free
+license: non-open
 cost: free
 
 tags:

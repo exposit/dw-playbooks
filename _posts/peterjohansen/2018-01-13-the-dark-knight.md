@@ -11,7 +11,7 @@ excerpt: A servant of Death, wielding one of his terrible weapons and powers in 
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: pwyw
 
 tags:

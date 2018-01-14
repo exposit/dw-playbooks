@@ -11,7 +11,7 @@ excerpt:
 categories:
 - barbarian
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

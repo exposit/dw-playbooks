@@ -11,7 +11,7 @@ excerpt: No matter what ails you, the orc medic is your "friend".
 categories:
 - cleric
 
-license: non-free
+license: non-open
 cost: paid
 
 ---

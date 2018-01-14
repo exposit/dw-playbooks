@@ -10,7 +10,7 @@ excerpt:
 categories:
 - thief
 
-license: non-free
+license: non-open
 cost: free
 
 tags:

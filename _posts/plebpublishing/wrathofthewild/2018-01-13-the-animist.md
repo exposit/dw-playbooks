@@ -11,7 +11,7 @@ excerpt: A spell caster who draws strength and inspiration from the animals of t
 categories:
 - druid
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

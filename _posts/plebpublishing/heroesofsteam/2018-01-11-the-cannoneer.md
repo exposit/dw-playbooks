@@ -11,7 +11,7 @@ excerpt: Due to sheer strength and size, you are able to wield and fire cannons 
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

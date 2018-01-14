@@ -11,7 +11,7 @@ excerpt: You are a deranged hermit obsessed with squirrels.
 categories:
 - magic user
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

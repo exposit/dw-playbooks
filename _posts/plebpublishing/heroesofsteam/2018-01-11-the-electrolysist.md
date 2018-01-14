@@ -11,7 +11,7 @@ excerpt: You are an innovative mind who couldn’t be happy with the already adv
 categories:
 - other
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

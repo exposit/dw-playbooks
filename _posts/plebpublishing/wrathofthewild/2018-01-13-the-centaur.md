@@ -11,7 +11,7 @@ excerpt: The infamous half-horse, half-man legend is paradoxically a drunken rai
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

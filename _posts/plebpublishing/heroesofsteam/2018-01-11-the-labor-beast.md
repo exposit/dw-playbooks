@@ -11,7 +11,7 @@ excerpt: You are a monster that has been pressed ganged into labor services...
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

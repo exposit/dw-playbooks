@@ -12,7 +12,7 @@ excerpt:
 categories:
 - other
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

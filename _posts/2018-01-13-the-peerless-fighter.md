@@ -11,7 +11,7 @@ excerpt: ...a Fighter variant that was more about knowing how to use your gear t
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: free
 
 ---

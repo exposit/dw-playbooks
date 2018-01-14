@@ -11,7 +11,7 @@ excerpt: You are a homeless and luckless wretch who wants to escape the life of 
 categories:
 - other
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

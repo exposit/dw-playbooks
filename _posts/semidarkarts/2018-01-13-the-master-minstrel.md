@@ -10,6 +10,6 @@ excerpt:
 categories:
 - bard
 
-license: non-free
+license: non-open
 cost: paid
 ---

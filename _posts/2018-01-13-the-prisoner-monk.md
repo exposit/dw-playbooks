@@ -11,7 +11,7 @@ excerpt:
 categories:
 - monk
 
-license: non-free
+license: non-open
 cost: free
 
 ---

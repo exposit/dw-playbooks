@@ -11,7 +11,7 @@ excerpt: You are a living tree.
 categories:
 - fighter
 
-license: non-free
+license: non-open
 cost: paid
 
 tags:

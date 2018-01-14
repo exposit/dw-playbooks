@@ -10,7 +10,7 @@ excerpt: Time controlling mechanic wizard.
 categories:
 - magic user
 
-license: non-free
+license: non-open
 cost: paid
 
 ---

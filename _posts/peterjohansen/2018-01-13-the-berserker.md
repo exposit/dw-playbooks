@@ -11,7 +11,7 @@ excerpt: A wild rager, capable of great feats of destruction, but at risk to him
 categories:
 - barbarian
 
-license: non-free
+license: non-open
 cost: pwyw
 
 tags:

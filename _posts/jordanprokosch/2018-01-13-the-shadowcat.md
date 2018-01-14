@@ -11,7 +11,7 @@ categories:
 - thief
 - non-human
 
-license: non-free
+license: non-open
 cost: paid
 
 ---
