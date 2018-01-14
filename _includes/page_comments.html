@@ -8,7 +8,7 @@
           {% if site.data.comments[loc].size > 1 %}
             {{ site.data.comments[loc] | size }}
           {% endif %}
-          Comments
+          Reviews
         </h4>
         <hr>
         <div class="row">
@@ -32,7 +32,13 @@
     {% unless page.comments_locked == true %}
       <!-- Start new comment form -->
 
-      <h4>New Comment</h4>
+      <h4>New Review</h4>
+
+      <p>Share your thoughts and experiences with this playbook.</p>
+
+      <p>Please be thoughtful and polite -- someone worked hard on this!</p>
+
+    <p></p>
 
       <form method="POST" action="https://api.staticman.net/v2/entry/exposit/dw-playbooks/gh-pages/comments">
         <input name="options[redirect]" type="hidden" value="https://exposit.github.io/dw-playbooks/">
@@ -40,11 +46,12 @@
         <input name="options[playbook-name]" type="hidden" value="{{ page.slug }}-{{ page.date | date: "%m" }}{{ page.date | date: "%d" }}{{ page.date | date: "%y" }}">
         <div class="form-group"><label class="form-label">Name</label><input class="form-control" name="fields[name]" type="text"></div>
         <div class="form-group"><label class="form-label">Email</label><input class="form-control" name="fields[email]" type="email"></div>
-        <div class="form-group"><textarea class="form-control" name="fields[message]" placeholder="Comment"></textarea></div>
+        <div class="form-group"><textarea class="form-control" name="fields[message]" placeholder="Review"></textarea></div>
 
         <div class="form-group"><button type="submit" class="btn btn-primary">Submit</button></div>
       </form>
 
+      <i>Reviews (and associated data) are processed with <a href="https://staticman.net/" target="new">staticman</a> and stored in the repo <a href="https://github.com/exposit/dw-playbooks/tree/gh-pages/_data/comments">here</a>. If you have a correction or want to discuss this page or site, please open an <a href="https://github.com/exposit/dw-playbooks/issues">issue</a> on the repo.</i>
       <!-- End new comment form -->
     {% else %}
       <p><em>Comments are closed.</em></p>
