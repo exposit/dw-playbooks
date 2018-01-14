@@ -34,6 +34,7 @@ categories:
 tags:
 - commercial or free
 - license (if not commercial)
+- pwyw (if it is)
 - setting (if there is one)
 - pack (if there is one)
 - anything else you think relevant
