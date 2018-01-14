@@ -10,10 +10,11 @@
 		<tr>
 			<th style="width:15%;"><span class="sort" data-sort="playbook-name">Playbook Name</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="source">Source</span></th>
-			<th style="width:20%;"><span class="sort" data-sort="author">Author</span></th>
+			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
 			<th style="width:25%;"><span class="sort" data-sort="description">Description</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
-			<th style="width:20%;"><span class="sort" data-sort="tags">Tags</span></th>
+			<th style="width:15%;"><span class="sort" data-sort="tags">Tags</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="date-added">Date Added</span></th>
 		</tr>
 	</thead>
 	<tbody class="list">
@@ -31,6 +32,7 @@
 			<td class="description">{{ post.description }}</td>
 			<td class="category">{{ post.categories | join: ", " }}</td>
 			<td class="tags">{{ post.tags | join: ", " }}</td>
+			<td class="date-added">{{ post.date | date: "%m-%d-%y" }}</td>
 		</tr>
 	{% endfor %}
 	</tbody>
@@ -41,7 +43,7 @@
 
 <script type="text/javascript">
 var options = {
-  valueNames: ['playbook-name', 'source', 'author', 'description', 'category', 'tags']
+  valueNames: ['playbook-name', 'source', 'author', 'description', 'category', 'tags', 'date-added']
 };
 var entryList = new List('entry-list', options);
 
