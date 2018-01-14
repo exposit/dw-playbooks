@@ -6,7 +6,7 @@ author: Pixie1001
 source: reddit
 source-url: https://www.reddit.com/r/DungeonWorld/comments/4y4gij/critique_my_sorcerer_hack_of_jacob_randolphs_mage/
 
-excerpt:  
+excerpt:  An elementally-based variant of Jacob Randolph's mage.
 
 categories:
 - magic user
