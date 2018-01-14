@@ -13,6 +13,4 @@ categories:
 tags:
 - cc-by
 - free
-- third-party
-- playbook
 ---
