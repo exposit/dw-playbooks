@@ -32,19 +32,18 @@ excerpt: Put the description of your playbook here. Keep it short; no more than 
 categories:
 - category (use an existing category please)
 
-license: cc-by, non-open, unknown
+license: cc-by, cc-by-sa, non-open, unknown
 cost: paid, free, pwyw
 
 tags:
 - setting (if there is one)
 - pack (if there is one)
-- anything else you think relevant
+- class tags like armored, tank, holy, warrior, music, etc.
 
 ---
 
   Any content you want shown on the individual entry page should go here. If you don't use an
   explicit excerpt field above, one will be generated here, using the first 200 characters.
+  Note: Please use your own words or just a short quote from the product page.
 
 ```
-
-Note: Please use your own words or a short quote from the product page.
