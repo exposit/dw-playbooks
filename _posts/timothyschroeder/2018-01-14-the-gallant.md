@@ -11,7 +11,7 @@ categories:
 - paladin
 
 license: non-open
-cost: commercial
+cost: paid
 
 tags:
 - variant

@@ -11,6 +11,6 @@ categories:
 - fighter
 
 license: cc-by
-cost: commercial
+cost: paid
 
 ---
