@@ -9,7 +9,7 @@ source-url: http://www.dungeon-world.com/
 excerpt:
 
 categories:
-- magic user
+- bard
 
 license: cc-by
 cost: free
