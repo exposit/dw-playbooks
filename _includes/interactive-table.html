@@ -10,7 +10,7 @@
 		<tr>
 			<th style="width:15%;"><span class="sort" data-sort="playbook-name">Playbook Name</span></th>
 			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
-			<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>
+			<!--<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>-->
 			<th style="width:10%;"><span class="sort" data-sort="cost">Cost</span></th>
 			<th style="width:15%;"><span class="sort" data-sort="author">Author</span></th>
 			<th style="width:30%;"><span class="sort" data-sort="description">Description</span></th>
@@ -29,7 +29,7 @@
 			</a></td>
 			<td class="source">
 				{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
-			<td class="license"><a href="{{ site.baseurl }}/{{post.license}}.html">{{ post.license }}</a></td>
+			<!--<td class="license"><a href="{{ site.baseurl }}/{{post.license}}.html">{{ post.license }}</a></td>-->
 			<td class="cost"><a href="{{ site.baseurl }}/{{post.cost}}.html">{{ post.cost }}</a></td>
 			<td class="author"><a href="{{ site.baseurl }}/authors.html#{{post.author}}">{{ post.author | join: ", " }}</a></td>
 			<td class="description">{{ post.excerpt | truncate: 200 }}</td>
@@ -48,7 +48,7 @@
 
 <script type="text/javascript">
 var options = {
-  valueNames: ['playbook-name', 'source', 'license', 'cost', 'author', 'description', 'category', 'tags', 'date-added']
+  valueNames: ['playbook-name', 'source', 'cost', 'author', 'description', 'category', 'tags', 'date-added']
 };
 var entryList = new List('entry-list', options);
 
