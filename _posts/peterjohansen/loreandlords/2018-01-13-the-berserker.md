@@ -1,17 +1,17 @@
 ---
 layout: entry
-playbook-name: The Monk
+playbook-name: The Berserker
 link: http://drivethrurpg.com/product/127110/Dungeon-World-Lore-and-Lords-Pack
 author: Peter Johansen
 source: Peter Johansen
 source-url: http://drivethrurpg.com/browse/pub/6532/Peter-Johansen
 
-excerpt: Master of martial arts, acrobatics, and the mysterious force of ki.
+excerpt: A wild rager, capable of great feats of destruction, but at risk to himself and others.
 
 categories:
-- monk
+- barbarian
 
-license: non-open
+license: cc-by
 cost: pwyw
 
 tags:

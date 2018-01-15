@@ -11,7 +11,7 @@ excerpt: A variant on the thief that uses cunning and deceit instead of poisons 
 categories:
 - thief
 
-license: non-open
+license: cc-by
 cost: pwyw
 
 tags:

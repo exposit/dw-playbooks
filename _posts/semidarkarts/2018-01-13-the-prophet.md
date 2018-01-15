@@ -12,4 +12,8 @@ categories:
 
 license: non-open
 cost: paid
+
+tags:
+- shaman
+
 ---
