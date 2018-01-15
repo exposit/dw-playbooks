@@ -13,7 +13,7 @@ layout: default
           <h5 class="post-tags">{{ page.categories | join: ", " }} | {{ page.tags | join: ", " }} | <a href="{{ site.baseurl }}/{{page.license}}.html">{{ page.license }}</a></h5>
         </header>
 
-        <p class="post-description"><i>{{ page.excerpt }}</i></p>
+        <p class="post-description"><i>{{ page.excerpt | truncate: 200 }}</i></p>
 
         <article class="post-content">
           {{ content }}
