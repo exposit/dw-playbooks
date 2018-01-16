@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Prisoner Monk
 link: https://www.dropbox.com/s/vhpiy5w8yp5bqw4/PrisonerMonk.pdf?dl=0
 author: bread_wood
 source: reddit

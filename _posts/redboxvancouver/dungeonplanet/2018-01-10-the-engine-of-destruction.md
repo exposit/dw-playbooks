@@ -1,7 +1,5 @@
 ---
 layout: entry
-permalink: /:slug
-playbook-name: The Engine of Destruction
 link: http://www.drivethrurpg.com/product/112308/Adventures-on-Dungeon-Planet
 author: Johnstone Metzger
 source: Red Box Vancouver
