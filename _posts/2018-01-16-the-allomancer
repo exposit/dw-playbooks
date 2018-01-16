@@ -1,19 +1,19 @@
 ---
 layout: entry
-playbook-name: Allomancer
 link: https://technicalgrimoire.com/files/Allomancer.pdf
 author: David Schirduan
 source: Technical Grimoire
 source-url: https://technicalgrimoire.com/
 
-excerpt: "Based on the 'Mistborn Trilogy' by Brandon Sanderson"
+excerpt: Based on the 'Mistborn Trilogy' by Brandon Sanderson
 
 categories:
-- magic-user
+- magic user
 
 license: cc-by
 cost: free
 
 tags:
-- magic
+- specialist
+
 ---
