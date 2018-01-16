@@ -58,7 +58,7 @@ var List = function(id, options, values) {
     this.list = null;
     this.templateEngines = {};
 
-    this.page = options.page || 200;
+    this.page = options.page || 1000;
     this.i = options.i || 1;
 
     init = {
