@@ -15,5 +15,5 @@ cost: free
 
 tags:
 - non-vancian
-
+- multi-school
 ---

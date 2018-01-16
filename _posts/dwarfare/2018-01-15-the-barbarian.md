@@ -8,7 +8,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/9017/Dwarfare-Games
 categories:
 - barbarian
 
-license: non-free
+license: non-open
 cost: paid
 
 ---

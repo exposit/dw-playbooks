@@ -15,4 +15,5 @@ cost: pwyw
 
 tags:
 - secrets and sorcery pack
+- multischool
 ---

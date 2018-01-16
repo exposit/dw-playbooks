@@ -15,4 +15,5 @@ cost: paid
 
 tags:
 - forsaken magic
+- multi-school
 ---
