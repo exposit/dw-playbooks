@@ -16,4 +16,5 @@ cost: free
 
 tags:
 - vanilla
+- divine
 ---
