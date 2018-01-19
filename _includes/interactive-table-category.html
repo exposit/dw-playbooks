@@ -8,7 +8,8 @@
 <table class="table table-striped">
 	<thead>
 		<tr>
-			<th style="width:15%;"><span class="sort" data-sort="playbook-name">Playbook Name</span></th>
+			<th style="width:5%;"><span class="sort" data-sort="link">Link</span></th>
+			<th style="width:15%;"><span class="sort" data-sort="playbook-name">Playbook</span></th>
 			<th style="width:5%;"><span class="sort" data-sort="source">Source</span></th>
 			<!--<th style="width:5%;"><span class="sort" data-sort="license">License</span></th>-->
 			<th style="width:10%;"><span class="sort" data-sort="cost">Cost</span></th>
@@ -23,7 +24,8 @@
 	{% for post in site.posts %}
 	  {% if post.categories contains page.category %}
 		<tr>
-			<td class="playbook-name"><a href="{{ post.link }}" target="new"><i class="fa fa-external-link"></i></a> &nbsp;&nbsp; <a href="{{ site.baseurl }}{{ post.url }}">
+			<td class="link"><a href="{{ post.link }}" target="new"><i class="fa fa-external-link"></i></a></td>
+			<td class="playbook-name"><a href="{{ site.baseurl }}{{ post.url }}">
 				{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
 				{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
 				{{ titlecase }}
@@ -50,7 +52,7 @@
 
 <script type="text/javascript">
 var options = {
-  valueNames: ['playbook-name', 'source', 'cost', 'author', 'description', 'category', 'tags', 'date-added']
+  valueNames: ['link', 'playbook-name', 'source', 'cost', 'author', 'description', 'category', 'tags', 'date-added']
 };
 var entryList = new List('entry-list', options);
 
