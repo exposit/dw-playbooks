@@ -6,7 +6,7 @@ source: google+
 source-url: https://plus.google.com/+ScottVelez/posts/QwhF3zisuac
 
 categories:
-- rogue
+- thief
 
 license: non-open
 cost: free
