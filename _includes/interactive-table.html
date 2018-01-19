@@ -23,7 +23,7 @@
 	<tbody class="list">
 	{% for post in site.posts %}
 		<tr>
-			<td class="link"><a href="{{ post.link }}" target="new"><i class="fa fa-external-link"></i></a></td>
+			<td class="link"><a href="{{ post.link }}" target="new"><button type="button" class="btn btn-primary">Get <i class="fa fa-external-link"></i></button></a></td>
 			<td class="playbook-name"><a href="{{ site.baseurl }}{{ post.url }}">
 				{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}
 				{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
