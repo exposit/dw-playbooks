@@ -8,7 +8,7 @@ source-url: http://drivethrurpg.com/browse/pub/4843/Lees-Lists
 excerpt: You're John Carpenter's <i>The Thing</i>, pretty much.
 
 categories:
-- non-human
+- monstrous
 
 license: non-open
 cost: paid

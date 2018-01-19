@@ -8,7 +8,7 @@ source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 excerpt: You are an ancient sorcerer mummified and put to rest in your tomb.
 
 categories:
-- non-human
+- monstrous
 - magic user
 
 license: non-open

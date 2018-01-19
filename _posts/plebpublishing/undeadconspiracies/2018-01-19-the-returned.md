@@ -8,7 +8,7 @@ source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 excerpt: Bummed your favorite character died and that they will be gone forever? Not anymore!
 
 categories:
-- non-human
+- monstrous
 - other
 
 license: non-open

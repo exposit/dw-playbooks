@@ -9,7 +9,7 @@ excerpt: Encased in armor and armed with an weapon Death himself has granted you
 
 categories:
 - paladin
-- non-human
+- monstrous
 
 license: non-open
 cost: paid

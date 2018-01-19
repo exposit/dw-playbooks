@@ -9,7 +9,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/5695/Awful-Good-Games
 
 categories:
 - magic user
-- non-human
+- monstrous
 
 license: non-open
 cost: paid

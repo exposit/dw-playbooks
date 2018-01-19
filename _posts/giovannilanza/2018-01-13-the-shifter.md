@@ -9,7 +9,7 @@ excerpt:
 
 categories:
 - ranger
-- non-human
+- monstrous
 
 license: non-open
 cost: free

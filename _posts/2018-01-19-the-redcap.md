@@ -9,7 +9,7 @@ excerpt: The Redcap is a magical murderer, an unhinged creature that delights in
 
 categories:
 - fighter
-- non-human
+- monstrous
 
 license: non-open
 cost: paid

@@ -9,7 +9,7 @@ excerpt:
 
 categories:
 - thief
-- non-human
+- monstrous
 
 license: non-open
 cost: paid

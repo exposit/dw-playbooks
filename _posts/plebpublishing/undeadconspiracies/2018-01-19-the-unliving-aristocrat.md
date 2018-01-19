@@ -8,7 +8,7 @@ source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 excerpt: Use your money and pretentious rapier skills to upstage your party members with.
 
 categories:
-- non-human
+- monstrous
 - rogue
 
 license: non-open

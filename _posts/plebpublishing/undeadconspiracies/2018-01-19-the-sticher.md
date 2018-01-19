@@ -8,7 +8,7 @@ source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 excerpt: You are the deranged undead surgeon who uses his medical knowledge to stich your careless party members back together after they get wrecked in the dungeon.
 
 categories:
-- non-human
+- monstrous
 - cleric
 
 license: non-open

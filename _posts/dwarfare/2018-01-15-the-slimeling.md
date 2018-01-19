@@ -6,7 +6,7 @@ source: Dwarfare
 source-url: http://www.drivethrurpg.com/browse/pub/9017/Dwarfare-Games
 
 categories:
-- non-human
+- monstrous
 
 license: non-open
 cost: paid

@@ -8,7 +8,7 @@ source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 excerpt: The blood you steal from your victims has provided a wonderful fuel for your mastery of blood magic. 
 
 categories:
-- non-human
+- monstrous
 - magic user
 
 license: non-open

@@ -8,7 +8,7 @@ source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 excerpt: Doomed to wander the earth without rest you return to the only trade you knew in life.
 
 categories:
-- non-human
+- monstrous
 - fighter
 
 license: non-open

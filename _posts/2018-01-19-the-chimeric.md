@@ -8,7 +8,7 @@ source-url: http://drivethrurpg.com/browse/pub/7335/Black-Zeppelin-Corps
 excerpt: Chimerics are capable of devouring monsters, consuming them for their power.
 
 categories:
-- non-human
+- monstrous
 - fighter
 
 license: non-open

@@ -7,7 +7,7 @@ source-url: http://drivethrurpg.com/browse/pub/6168/Pleb-Publishing
 
 categories:
 - paladin
-- non-human
+- monstrous
 
 license: non-open
 cost: paid
