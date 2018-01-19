@@ -8,11 +8,12 @@ source-url: http://www.drivethrurpg.com/browse/pub/4483/Red-Box-Vancouver
 excerpt:
 
 categories:
-- other
+- psion
 
 license: non-open
 cost: paid
 
 tags:
 - dungeon planet
+
 ---

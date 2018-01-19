@@ -14,6 +14,6 @@ license: non-open
 cost: paid
 
 tags:
-- pirates
+- pirate
 
 ---
