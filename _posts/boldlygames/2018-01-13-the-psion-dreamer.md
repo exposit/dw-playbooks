@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Psion Dreamer
 link: http://drivethrurpg.com/product/153315/The-Psion-Dreamer-Dungeon-World-Grim-World-compatible
 author: ['Trenton Kennedy', 'Greyoak']
 source: Boldly Games

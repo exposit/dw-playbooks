@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Wizard
 link: https://www.dropbox.com/sh/vdpv5x83v87lsza/AAA9EUnIU51g_jRzwJw9ec0oa?dl=0
 author: Anthony Giovannetti
 source: google+

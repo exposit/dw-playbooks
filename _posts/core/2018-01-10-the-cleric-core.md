@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Cleric
 link: http://www.dungeonworldsrd.com/classes/cleric/
 author: Core
 source: DW Core

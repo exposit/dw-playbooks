@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Initiate
 link: http://drivethrurpg.com/product/108404/The-Initiate--A-Dungeon-World-compatible-class
 author:  Josh Krutt
 source: Fünhaver Industries

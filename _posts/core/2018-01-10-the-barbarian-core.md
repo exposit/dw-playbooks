@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Barbarian
 link: http://www.dungeonworldsrd.com/classes/barbarian/
 author: Core
 source: DW Core

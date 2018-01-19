@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Beguiler
 link: http://www.mediafire.com/view/armlrbmnfzd608t/The_Beguiler.pdf
 author: ['Nemo Hana']
 source: google+

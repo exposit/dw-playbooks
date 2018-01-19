@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Labor Beast
 link: http://drivethrurpg.com/product/161538/Dungeon-World-Playbooks-Heroes-of-Steam-Bundle
 author: Jordan MacCarthy
 source: Pleb Publishing

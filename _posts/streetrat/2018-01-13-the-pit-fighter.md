@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Pit Fighter
 link: http://drivethrurpg.com/product/119947/The-Pit-Fighter-Dungeon-World-Playbook
 author: Street Rat Games
 source: Street Rat Games

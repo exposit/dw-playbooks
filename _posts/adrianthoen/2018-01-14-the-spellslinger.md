@@ -1,6 +1,6 @@
 ---
 layout: entry
-playbook-name: The Spellslinger
+
 link: http://www.drivethrurpg.com/product/112749/The-Spellslinger--A-Dungeon-World-Playbook
 author: Adrian Thoen
 source: google+

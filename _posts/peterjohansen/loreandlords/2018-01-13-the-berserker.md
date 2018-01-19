@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Berserker
 link: http://drivethrurpg.com/product/127110/Dungeon-World-Lore-and-Lords-Pack
 author: Peter Johansen
 source: Peter Johansen

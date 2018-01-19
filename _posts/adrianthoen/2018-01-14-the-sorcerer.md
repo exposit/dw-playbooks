@@ -1,6 +1,6 @@
 ---
 layout: entry
-playbook-name: The Sorcerer
+
 link: http://www.drivethrurpg.com/product/125358/The-Sorcerer--A-Dungeon-World-Playbook
 author: Adrian Thoen
 source: google+

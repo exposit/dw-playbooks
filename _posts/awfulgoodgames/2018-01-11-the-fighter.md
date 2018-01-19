@@ -1,6 +1,6 @@
 ---
 layout: entry
-playbook-name: The Fighter
+
 link: http://drivethrurpg.com/product/165588/The-Fighter--A-Dungeon-World-Playbook
 author: ['David Guyll', 'Melissa Fisher']
 source: Awful Good Games

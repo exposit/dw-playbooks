@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Warlock
 link: http://www.drivethrurpg.com/product/186902/The-Warlock-Dungeon-World-Playbook
 author: Kevin Bishop
 source: Meromorph Games

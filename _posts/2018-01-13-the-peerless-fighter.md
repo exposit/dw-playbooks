@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Peerless Fighter
 link: https://drive.google.com/file/d/0B30fzv28XdrYVS1tdUFBOU9iYnc/edit
 author: Alex Norris
 source: google+

@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Gladiator
 link: https://drive.google.com/file/d/0BxBhVlXSRDSZb3NtdHBySW14NDg/edit
 author: Christopher Grau
 source: google+

@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Sorcerer
 link: http://www.drivethrurpg.com/product/170949/en/The-Sorcerer-Dungeon-World-Playbook
 author: Kevin Bishop
 source: Meromorph Games

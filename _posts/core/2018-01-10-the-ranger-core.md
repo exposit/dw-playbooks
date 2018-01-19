@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Ranger
 link: http://www.dungeonworldsrd.com/classes/ranger/
 author: Core
 source: DW Core

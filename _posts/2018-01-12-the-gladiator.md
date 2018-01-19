@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Gladiator
 link: https://drive.google.com/drive/#folders/0BwQBDcsLI0e-ZVVzeGRFR2pxUW8
 author: Travis Stout
 source: google+

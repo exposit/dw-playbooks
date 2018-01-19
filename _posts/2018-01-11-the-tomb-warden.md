@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Tomb Warden
 link: http://drivethrurpg.com/product/149004/The-Tomb-Warden--A-Dungeon-World-Playbook
 author: Unknown
 source: Imploding Dice

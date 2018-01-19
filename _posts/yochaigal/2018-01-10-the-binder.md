@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Binder
 link: https://drive.google.com/open?id=0BzeF5GXNEsnfOEd4M0NXcWF2MVE
 author: ['Yochai Gal']
 source: google+

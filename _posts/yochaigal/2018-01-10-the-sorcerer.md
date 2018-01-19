@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Sorcerer
 link: https://drive.google.com/file/d/0BzeF5GXNEsnfdDhkZV9tZDNwQVk/view
 author: ['Yochai Gal']
 source: google+

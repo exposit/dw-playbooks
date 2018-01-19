@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Thief
 link: http://www.dungeonworldsrd.com/classes/thief/
 author: Core
 source: DW Core

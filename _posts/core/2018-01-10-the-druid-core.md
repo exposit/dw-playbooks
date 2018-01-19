@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Druid
 link: http://www.dungeonworldsrd.com/classes/druid/
 author: Core
 source: DW Core

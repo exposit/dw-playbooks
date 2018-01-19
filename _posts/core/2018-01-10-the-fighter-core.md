@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Fighter
 link: http://www.dungeonworldsrd.com/classes/fighter/
 author: Core
 source: DW Core

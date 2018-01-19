@@ -1,6 +1,5 @@
 ---
 layout: entry
-playbook-name: The Sorcerer
 link: https://drive.google.com/open?id=0B-fRgMcAOKp5Y1V4NnRJLTZQdms
 author: Pixie1001
 source: reddit
