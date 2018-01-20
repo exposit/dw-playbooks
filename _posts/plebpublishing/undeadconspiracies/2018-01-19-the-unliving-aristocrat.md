@@ -9,7 +9,7 @@ excerpt: Use your money and pretentious rapier skills to upstage your party memb
 
 categories:
 - monstrous
-- rogue
+- thief
 
 license: non-open
 cost: paid
