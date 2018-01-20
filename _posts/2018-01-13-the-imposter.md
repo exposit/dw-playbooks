@@ -1,7 +1,7 @@
 ---
 layout: entry
 link: https://docs.google.com/document/d/1d2FNl5ZY3hywpYG2wAym83y7cUSRvipkY_18yKo6c7s/edit
-author: Unknown
+author: Kaja Rainbow
 source:
 source-url:
 
@@ -13,6 +13,4 @@ categories:
 license: non-open
 cost: free
 
-tags:
-- unattributed
 ---

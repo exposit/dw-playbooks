@@ -1,18 +1,16 @@
 ---
 layout: entry
 link: https://docs.google.com/file/d/0B30fzv28XdrYb0taaGZuVzNhcFk/edit
-author: Unknown
+author: Lemon Curdistan
 source:
 source-url:
 
 excerpt:
 
 categories:
-- bard
+- cleric
 
 license: unknown
 cost: free
 
-tags:
-- unattributed
 ---
