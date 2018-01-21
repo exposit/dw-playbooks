@@ -14,5 +14,4 @@ license: cc-by
 cost: free
 
 tags: alternate
-- 
 ---
