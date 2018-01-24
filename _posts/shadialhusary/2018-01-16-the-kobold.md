@@ -7,6 +7,7 @@ source-url: https://plus.google.com/+ShadiAlhusary
 
 categories:
 - monstrous
+- race-class
 
 license: cc-by
 cost: pwyw
