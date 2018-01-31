@@ -30,7 +30,7 @@ excerpt: Put the description of your playbook here. Keep it short; no more than 
  will display.
 
 categories:
-- category (use an existing category please)
+- category (use an existing category please, otherwise you'll get a not-found)
 
 license: cc-by, cc-by-sa, non-open, unknown
 cost: paid, free, pwyw
