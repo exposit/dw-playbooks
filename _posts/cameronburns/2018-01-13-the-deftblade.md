@@ -1,6 +1,6 @@
 ---
 layout: entry
-link: https://docs.google.com/document/d/1rpjReogHldRBnuODrwnj8dHrhms9473TBKFHxqmAv-g/edit#heading=h.ug7r1uwep04v
+link: https://docs.google.com/document/d/1Q-q5HrGdD9qDvSamsUoJdIZDj-OdvKBFMLtV8WP69f4/edit?usp=sharing
 author: Cameron Burns
 source: google+
 source-url: https://plus.google.com/+CameronBurnsAU
