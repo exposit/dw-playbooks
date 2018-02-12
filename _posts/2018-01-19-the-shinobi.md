@@ -12,6 +12,6 @@ categories:
 - thief
 
 license: non-open
-cost: free
+cost: paid
 
 ---
