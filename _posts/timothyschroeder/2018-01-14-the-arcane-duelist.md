@@ -9,6 +9,7 @@ excerpt: The arcane duelist weaves magic and martial skill together to form a st
 
 categories:
 - fighter
+- magic user
 
 license: cc-by
 cost: paid
