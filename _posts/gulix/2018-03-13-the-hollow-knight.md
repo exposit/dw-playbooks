@@ -5,7 +5,7 @@ author: Nicolas 'Gulix' Ronvel
 source: Gulix
 source-url: http://www.drivethrurpg.com/browse/pub/11561/Gulix
 
-exceprt: 
+excerpt: 
 
 categories:
 - fighter
