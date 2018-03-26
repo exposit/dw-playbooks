@@ -18,6 +18,7 @@
 			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
 			<th style="width:5%;"><span class="sort" data-sort="tags">Tags</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="date-added">Added</span></th>
+      <th style="width:5%;"><span class="sort" data-sort="review-count">Reviews</span></th>
 		</tr>
 	</thead>
 	<tbody class="list">
@@ -42,6 +43,8 @@
 				{% endfor %}{% endif %}
 				</td>
 			<td class="date-added">{{ post.date | date: "%m-%d-%y" }}</td>
+      <td class="review-count">  {% capture loc %}{{ post.slug }}-{{ post.date | date: "%m" }}{{ post.date | date: "%d" }}{{ post.date | date: "%y" }}{% endcapture %}
+        {{ site.data.comments[loc].size }}</td>
 		</tr>
 		{% endif %}
 	{% endfor %}
@@ -53,7 +56,7 @@
 
 <script type="text/javascript">
 var options = {
-  valueNames: ['link', 'playbook-name', 'source', 'cost', 'author', 'description', 'category', 'tags', 'date-added']
+  valueNames: ['link', 'playbook-name', 'source', 'cost', 'author', 'description', 'category', 'tags', 'date-added', 'review-count']
 };
 var entryList = new List('entry-list', options);
 
