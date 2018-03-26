@@ -44,7 +44,11 @@
 				</td>
 			<td class="date-added">{{ post.date | date: "%m-%d-%y" }}</td>
       <td class="review-count">  {% capture loc %}{{ post.slug }}-{{ post.date | date: "%m" }}{{ post.date | date: "%d" }}{{ post.date | date: "%y" }}{% endcapture %}
-        {{ site.data.comments[loc].size }}</td>
+        {% if site.data.comments[loc].size > 0 %}
+          {{ site.data.comments[loc] | size }}
+        {% else %}
+           0
+        {% endif %}</td></td>
 		</tr>
 		{% endif %}
 	{% endfor %}

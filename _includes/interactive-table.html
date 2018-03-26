@@ -17,8 +17,7 @@
 			<th style="width:25%;"><span class="sort" data-sort="description">Description</span></th>
 			<th style="width:10%;"><span class="sort" data-sort="category">Category</span></th>
 			<th style="width:5%;"><span class="sort" data-sort="tags">Tags</span></th>
-			<th style="width:10%;"><span class="sort" data-sort="date-added">Date Added</span></th>
-      <th style="width:5%;"><span class="sort" data-sort="review-count">Reviews</span></th>
+			<th style="width:10%;"><span class="sort" data-sort="review-count">#</span></th>
 		</tr>
 	</thead>
 	<tbody class="list">
@@ -41,9 +40,12 @@
 			<td class="tags">{% if post.tags %}{% for tag in post.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}
 				{% endfor %}{% endif %}
 				</td>
-			<td class="date-added">{{ post.date | date: "%m-%d-%y" }}</td>
       <td class="review-count">  {% capture loc %}{{ post.slug }}-{{ post.date | date: "%m" }}{{ post.date | date: "%d" }}{{ post.date | date: "%y" }}{% endcapture %}
-        {{ site.data.comments[loc].size }}</td>
+        {% if site.data.comments[loc].size > 0 %}
+          {{ site.data.comments[loc] | size }}
+        {% else %}
+           0
+        {% endif %}</td>
 		</tr>
 	{% endfor %}
 	</tbody>
