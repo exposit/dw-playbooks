@@ -12,5 +12,3 @@ license: non-open
 cost: paid
 
 ---
-
-You use your magic to help your allies, keep yourself safe using protective talismans called mojos, see if a course of action is a good idea, heal hurt creatures, work the roots to craft herbal medicine, use your voodoo to curse your enemies, or even control them with your zombi powder.
