@@ -8,7 +8,7 @@ source-url: http://apocalypse-world.com/forums/index.php?topic=6325.0
 excerpt: It's inspired a little bit by NWoD Changeling, a little bit by Oddysee, and a little bit by Spartacus.
 
 categories:
-- monster
+- monstrous
 
 license: non-open
 cost: free
