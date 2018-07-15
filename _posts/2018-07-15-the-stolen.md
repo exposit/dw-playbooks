@@ -1,9 +1,9 @@
 ---
 layout: entry
-link: http://apocalypse-world.com/forums/index.php?topic=6325.0
+link: https://drive.google.com/file/d/1N_LuMMdnnZFYiG4Cqd_j0n_1XA9FlMLg/view
 author: Tollymain
 source: Barf Forth Apocalyptica
-source-url: https://docs.google.com/document/d/1salniTKAlOKkDOomd1N51ig4FI7IEO80345JP3nwmdY/edit
+source-url: http://apocalypse-world.com/forums/index.php?topic=6325.0
 
 excerpt: It's inspired a little bit by NWoD Changeling, a little bit by Oddysee, and a little bit by Spartacus.
 
