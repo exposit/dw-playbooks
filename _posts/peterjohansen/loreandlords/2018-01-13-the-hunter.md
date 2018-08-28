@@ -1,6 +1,6 @@
 ---
 layout: entry
-link: http://drivethrurpg.com/product/127110/Dungeon-World-Lore-and-Lords-Pack
+link: https://plus.google.com/113692337653837882568/posts/PiujJA82jfe
 author: Peter Johansen
 source: Peter Johansen
 source-url: http://drivethrurpg.com/browse/pub/6532/Peter-Johansen
