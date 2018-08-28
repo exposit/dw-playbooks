@@ -8,7 +8,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/5695/Awful-Good-Games
 excerpt:
 
 categories:
-- bard
+- cleric
 
 license: non-open
 cost: paid
