@@ -1,7 +1,7 @@
 ---
 layout: entry
 link: https://benkrosenbloom.itch.io/the-olympian-and-the-paragon
-author: ['Trevor Murray ', 'Ben K Rosenbloom']
+author: ['Trevor Murray', 'Ben K Rosenbloom']
 source: benkrosenbloom
 source-url: https://benkrosenbloom.itch.io/
 
