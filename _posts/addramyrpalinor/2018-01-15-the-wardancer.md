@@ -1,6 +1,6 @@
 ---
 layout: entry
-link: https://drive.google.com/file/d/0Bwei_ZFWBYlPZlpTNldZbjRKV2c/view?pli=1
+link: https://drive.google.com/file/d/0Bwei_ZFWBYlPZlpTNldZbjRKV2c/view?usp=sharing&resourcekey=0-8vt11ZpmrGVltfx4Bi27Rg
 author: Addramyr Palinor
 source: google+
 source-url: https://plus.google.com/100410765634052727875
