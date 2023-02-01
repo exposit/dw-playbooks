@@ -1,7 +1,7 @@
 ---
 layout: entry
 link: http://drivethrurpg.com/product/131014/The-Guest-Star--A-Dungeon-World-Playbook-for-Extra-Players-on-Game-Night
-author: Jacob Randolph
+author: Vel Mini
 source: Liberi Gothica Games
 source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 
