@@ -1,7 +1,7 @@
 ---
 layout: entry
 link: http://drivethrurpg.com/product/124181/The-Clock-Mage--A-Dungeon-World-Playbook
-author: Jacob Randolph
+author: Vel Mini
 source: Liberi Gothica Games
 source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 
