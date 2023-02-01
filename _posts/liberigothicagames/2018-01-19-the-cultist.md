@@ -1,7 +1,7 @@
 ---
 layout: entry
 link: http://drivethrurpg.com/product/110884/The-Cultist--A-Dungeon-World-Playbook
-author: Jacob Randolph
+author: Vel Mini
 source: Liberi Gothica Games
 source-url: http://drivethrurpg.com/browse/pub/4996/Liberi-Gothica-Games
 
